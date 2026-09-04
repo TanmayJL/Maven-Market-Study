@@ -1,0 +1,1838 @@
+customer_city,marital_status,gender,num_children_at_home,income,age,store_type,highOrLow,education,member_card,occupation,homeowner
+Issaquah,M,F,1,60000,88,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Lynnwood,S,F,0,80000,56,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Renton,S,M,0,40000,80,No Store,0,High School Degree,Normal,Manual,Y
+Anacortes,M,F,1,40000,64,No Store,0,High School Degree,Bronze,Manual,Y
+Everett,S,F,0,20000,28,No Store,0,Partial High School,Silver,Manual,Y
+Renton,S,M,0,60000,82,No Store,0,Bachelors Degree,Golden,Management,Y
+Ballard,S,M,0,60000,33,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Lynnwood,S,F,0,40000,85,No Store,0,High School Degree,Bronze,Manual,N
+Port Orchard,S,F,0,80000,81,No Store,0,High School Degree,Normal,Professional,N
+Tacoma,S,M,0,80000,41,Deluxe Supermarket,0,Bachelors Degree,Bronze,Management,Y
+Port Orchard,S,F,0,40000,64,No Store,1,Bachelors Degree,Bronze,Professional,N
+Bremerton,S,M,0,60000,85,Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,S,F,0,120000,51,No Store,0,Partial College,Normal,Professional,Y
+Everett,S,M,0,20000,66,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Lynnwood,M,M,3,150000,42,No Store,0,Bachelors Degree,Golden,Professional,Y
+Renton,M,F,1,60000,40,No Store,0,Bachelors Degree,Golden,Professional,Y
+Kirkland,S,M,0,80000,48,No Store,0,High School Degree,Bronze,Management,N
+Seattle,M,F,1,40000,69,Supermarket,0,High School Degree,Bronze,Manual,Y
+Ballard,S,F,0,150000,45,No Store,0,High School Degree,Silver,Professional,Y
+Tacoma,M,F,1,140000,37,Deluxe Supermarket,0,Partial College,Bronze,Management,Y
+Renton,M,F,1,100000,37,No Store,0,Partial High School,Golden,Professional,N
+Walla Walla,M,F,3,20000,35,Small Grocery,0,Partial High School,Normal,Manual,N
+Seattle,S,F,0,60000,53,Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Bremerton,S,F,0,40000,33,Supermarket,0,High School Degree,Bronze,Manual,N
+Everett,M,F,1,120000,74,No Store,0,Graduate Degree,Bronze,Management,Y
+Edmonds,S,M,0,20000,75,No Store,0,Partial High School,Normal,Manual,Y
+Spokane,M,F,0,60000,21,Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Olympia,S,F,0,80000,74,No Store,0,High School Degree,Bronze,Professional,N
+Lynnwood,M,F,2,40000,76,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Bellingham,M,M,0,20000,55,Small Grocery,0,Partial High School,Normal,Manual,Y
+Sedro Woolley,M,M,2,140000,24,No Store,0,High School Degree,Bronze,Professional,N
+Sedro Woolley,S,F,0,20000,79,No Store,0,Partial High School,Normal,Manual,N
+Everett,S,M,0,140000,32,No Store,0,High School Degree,Bronze,Management,Y
+Walla Walla,M,M,3,40000,60,Small Grocery,0,High School Degree,Golden,Manual,Y
+Marysville,S,F,0,40000,77,No Store,0,Partial High School,Bronze,Skilled Manual,N
+Sedro Woolley,S,F,0,140000,42,No Store,0,Bachelors Degree,Bronze,Professional,N
+Everett,S,F,0,40000,71,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Redmond,M,M,0,150000,83,No Store,0,High School Degree,Golden,Management,Y
+Burien,M,F,0,80000,41,No Store,0,Bachelors Degree,Bronze,Management,N
+Burien,M,F,1,20000,58,No Store,0,High School Degree,Normal,Manual,Y
+Anacortes,S,F,0,40000,55,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Tacoma,S,F,0,40000,68,Deluxe Supermarket,0,High School Degree,Bronze,Skilled Manual,N
+Bellingham,M,M,1,20000,67,Small Grocery,0,Partial High School,Normal,Manual,Y
+Olympia,M,M,0,20000,63,No Store,1,Partial High School,Bronze,Skilled Manual,Y
+Bellingham,S,F,0,20000,53,Small Grocery,0,Partial High School,Normal,Manual,N
+Sedro Woolley,M,M,0,140000,75,No Store,0,High School Degree,Bronze,Professional,Y
+Yakima,M,F,2,150000,56,Mid-Size Grocery,0,Partial High School,Golden,Management,Y
+Bremerton,S,F,0,20000,67,Supermarket,0,Partial High School,Normal,Manual,N
+Bellingham,M,M,1,20000,31,Small Grocery,0,Partial High School,Bronze,Manual,Y
+Lynnwood,M,F,1,40000,52,No Store,0,Partial College,Bronze,Professional,Y
+Spokane,S,M,0,40000,29,Supermarket,1,Partial College,Silver,Manual,Y
+Anacortes,S,M,0,20000,65,No Store,0,Partial High School,Normal,Skilled Manual,N
+Walla Walla,M,M,0,40000,68,Small Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Yakima,M,F,0,60000,78,Mid-Size Grocery,0,Bachelors Degree,Bronze,Management,Y
+Redmond,M,M,1,20000,69,No Store,0,High School Degree,Normal,Manual,Y
+Walla Walla,S,F,0,60000,36,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Edmonds,M,M,3,80000,55,No Store,0,Bachelors Degree,Silver,Professional,Y
+Spokane,S,M,0,100000,22,Supermarket,1,Partial High School,Bronze,Professional,Y
+Lynnwood,M,F,4,80000,86,No Store,0,Partial High School,Golden,Professional,Y
+Olympia,S,F,0,20000,57,No Store,0,Partial High School,Golden,Skilled Manual,N
+Ballard,M,F,1,40000,78,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Puyallup,M,M,0,40000,65,No Store,0,High School Degree,Bronze,Manual,N
+Tacoma,S,M,0,140000,37,Deluxe Supermarket,0,Partial College,Bronze,Professional,Y
+Renton,M,M,0,80000,69,No Store,0,Graduate Degree,Bronze,Professional,Y
+Yakima,S,M,0,20000,37,Mid-Size Grocery,0,Partial High School,Normal,Manual,Y
+Seattle,S,M,0,80000,60,Supermarket,0,Graduate Degree,Bronze,Professional,Y
+Tacoma,M,F,0,40000,52,Deluxe Supermarket,0,High School Degree,Bronze,Manual,Y
+Burien,M,F,0,40000,36,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Issaquah,M,F,0,40000,26,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Ballard,M,M,4,60000,71,No Store,0,Bachelors Degree,Golden,Management,N
+Lynnwood,M,M,0,60000,36,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,S,M,0,20000,48,No Store,0,Partial High School,Normal,Manual,N
+Marysville,S,F,0,40000,84,No Store,0,High School Degree,Bronze,Manual,N
+Spokane,M,F,2,20000,59,Supermarket,1,High School Degree,Normal,Manual,N
+Marysville,S,M,0,100000,35,No Store,0,Graduate Degree,Normal,Professional,Y
+Redmond,M,M,1,60000,57,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Anacortes,S,F,0,60000,39,No Store,0,Partial College,Bronze,Skilled Manual,N
+Yakima,S,F,0,60000,74,Mid-Size Grocery,0,Bachelors Degree,Bronze,Management,N
+Marysville,S,M,0,120000,26,No Store,0,Partial High School,Bronze,Management,Y
+Issaquah,S,F,0,60000,83,No Store,0,Bachelors Degree,Silver,Professional,Y
+Edmonds,S,M,0,60000,37,No Store,0,Bachelors Degree,Bronze,Professional,N
+Walla Walla,S,M,0,20000,78,Small Grocery,0,Partial High School,Normal,Manual,N
+Yakima,S,F,0,140000,79,Mid-Size Grocery,0,Partial College,Golden,Professional,Y
+Issaquah,S,M,0,40000,83,No Store,0,High School Degree,Bronze,Manual,N
+Bremerton,S,F,0,60000,27,Supermarket,0,Bachelors Degree,Bronze,Management,N
+Bellingham,M,M,3,40000,49,Small Grocery,0,High School Degree,Silver,Manual,Y
+Puyallup,M,M,1,40000,49,No Store,0,Partial College,Bronze,Professional,Y
+Yakima,M,M,4,40000,44,Mid-Size Grocery,0,High School Degree,Golden,Skilled Manual,N
+Seattle,S,F,0,40000,28,Supermarket,0,High School Degree,Silver,Manual,N
+Sedro Woolley,M,F,4,140000,20,No Store,0,Partial High School,Golden,Management,Y
+Puyallup,S,F,0,60000,63,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Walla Walla,M,F,2,120000,33,Small Grocery,0,High School Degree,Normal,Professional,Y
+Tacoma,M,M,2,80000,60,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Puyallup,S,F,0,20000,34,No Store,0,High School Degree,Normal,Manual,N
+Burien,M,M,0,80000,36,No Store,0,Bachelors Degree,Silver,Professional,Y
+Seattle,S,F,0,20000,19,Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Edmonds,M,M,4,80000,82,No Store,0,Bachelors Degree,Golden,Management,Y
+Olympia,S,M,0,100000,39,No Store,0,High School Degree,Bronze,Professional,N
+Kirkland,M,M,2,40000,37,No Store,0,High School Degree,Bronze,Manual,N
+Bremerton,M,M,1,40000,45,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Spokane,S,F,0,60000,78,Supermarket,1,Bachelors Degree,Bronze,Management,Y
+Redmond,M,F,1,20000,38,No Store,0,Partial High School,Normal,Manual,N
+Everett,M,M,1,40000,37,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Kirkland,M,M,1,20000,66,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Kirkland,M,F,1,40000,58,No Store,0,Bachelors Degree,Silver,Professional,N
+Tacoma,M,F,2,40000,51,Deluxe Supermarket,0,Partial High School,Bronze,Manual,Y
+Walla Walla,S,M,0,60000,50,Small Grocery,0,Bachelors Degree,Bronze,Management,Y
+Issaquah,S,F,0,40000,39,No Store,0,High School Degree,Bronze,Manual,Y
+Marysville,M,F,0,60000,80,No Store,0,Bachelors Degree,Golden,Professional,N
+Burien,S,F,0,40000,68,No Store,0,High School Degree,Bronze,Manual,Y
+Anacortes,S,M,0,120000,28,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Yakima,M,M,3,60000,67,Mid-Size Grocery,0,Bachelors Degree,Silver,Management,Y
+Ballard,M,F,4,80000,87,No Store,0,Bachelors Degree,Golden,Professional,Y
+Issaquah,M,F,3,40000,56,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Bremerton,S,F,0,100000,38,Supermarket,0,Bachelors Degree,Bronze,Management,Y
+Bremerton,S,F,0,40000,46,Supermarket,1,High School Degree,Bronze,Skilled Manual,N
+Edmonds,S,M,0,20000,47,No Store,0,Partial High School,Normal,Skilled Manual,N
+Walla Walla,S,M,0,80000,76,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Port Orchard,S,F,0,150000,28,No Store,1,Bachelors Degree,Silver,Management,Y
+Burien,M,M,1,40000,20,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Kirkland,S,M,0,40000,20,No Store,0,Partial College,Bronze,Clerical,N
+Spokane,S,F,0,40000,42,Supermarket,1,High School Degree,Bronze,Skilled Manual,N
+Puyallup,S,F,0,20000,19,No Store,0,Bachelors Degree,Normal,Professional,N
+Renton,S,M,0,60000,23,No Store,0,Bachelors Degree,Bronze,Professional,N
+Redmond,M,M,1,40000,21,No Store,0,Partial College,Bronze,Professional,Y
+Ballard,M,F,2,120000,66,No Store,0,High School Degree,Golden,Management,Y
+Olympia,M,M,3,60000,51,No Store,0,Bachelors Degree,Golden,Professional,Y
+Redmond,S,M,0,20000,35,No Store,0,Partial High School,Normal,Manual,N
+Seattle,S,F,0,40000,50,Supermarket,0,Partial College,Bronze,Skilled Manual,Y
+Lynnwood,M,M,1,100000,59,No Store,0,Graduate Degree,Bronze,Management,Y
+Olympia,M,M,2,40000,50,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Burien,S,M,0,80000,81,No Store,0,Bachelors Degree,Bronze,Professional,N
+Tacoma,S,F,0,40000,30,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Edmonds,M,F,2,20000,38,No Store,0,Partial High School,Normal,Skilled Manual,N
+Redmond,M,F,0,60000,45,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Marysville,M,M,1,40000,28,No Store,0,High School Degree,Bronze,Manual,Y
+Kirkland,M,M,0,20000,27,No Store,0,Partial High School,Normal,Manual,N
+Everett,S,F,0,20000,46,No Store,0,Partial High School,Normal,Skilled Manual,N
+Burien,M,F,2,60000,54,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,S,F,0,40000,80,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Anacortes,M,F,2,80000,30,No Store,0,Graduate Degree,Bronze,Professional,Y
+Tacoma,M,M,0,80000,41,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Port Orchard,S,F,0,20000,21,No Store,0,Partial High School,Normal,Skilled Manual,N
+Issaquah,M,M,4,80000,50,No Store,0,Graduate Degree,Silver,Management,Y
+Bremerton,S,M,0,60000,68,Supermarket,0,Bachelors Degree,Bronze,Management,Y
+Redmond,S,M,0,40000,72,No Store,0,Partial College,Bronze,Manual,N
+Yakima,S,M,0,80000,38,Mid-Size Grocery,0,Bachelors Degree,Bronze,Management,Y
+Lynnwood,S,F,0,40000,74,No Store,0,Partial College,Silver,Professional,Y
+Port Orchard,M,M,0,40000,26,No Store,1,High School Degree,Bronze,Skilled Manual,Y
+Burien,S,F,0,20000,79,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Kirkland,M,F,4,60000,79,No Store,0,Partial High School,Golden,Skilled Manual,Y
+Puyallup,M,F,0,60000,78,No Store,0,Bachelors Degree,Silver,Professional,Y
+Redmond,S,F,0,60000,38,No Store,0,Bachelors Degree,Normal,Professional,N
+Burien,S,F,0,40000,40,No Store,0,Partial High School,Bronze,Manual,N
+Ballard,M,M,0,20000,63,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Spokane,M,F,1,80000,48,Supermarket,1,Bachelors Degree,Silver,Professional,Y
+Seattle,S,F,0,140000,25,Supermarket,0,High School Degree,Bronze,Management,Y
+Seattle,M,F,3,100000,76,Supermarket,0,High School Degree,Golden,Professional,Y
+Renton,M,M,0,40000,38,No Store,0,Partial College,Bronze,Professional,Y
+Lynnwood,M,F,1,80000,78,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,S,M,0,100000,87,No Store,0,Partial High School,Bronze,Professional,Y
+Port Orchard,S,F,0,140000,83,No Store,1,Graduate Degree,Bronze,Management,Y
+Tacoma,M,M,3,40000,53,Deluxe Supermarket,0,Partial High School,Silver,Skilled Manual,Y
+Puyallup,M,F,1,40000,25,No Store,1,High School Degree,Bronze,Skilled Manual,Y
+Bremerton,S,M,0,20000,29,Supermarket,0,Bachelors Degree,Normal,Management,Y
+Marysville,M,F,0,20000,67,No Store,0,Partial High School,Normal,Manual,Y
+Tacoma,M,F,0,60000,77,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Lynnwood,S,F,0,60000,69,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Marysville,S,M,0,60000,35,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Port Orchard,S,F,0,40000,87,No Store,1,Bachelors Degree,Bronze,Professional,N
+Sedro Woolley,M,F,4,60000,20,No Store,0,Partial College,Bronze,Clerical,Y
+Lynnwood,M,F,3,40000,80,No Store,0,High School Degree,Golden,Manual,N
+Kirkland,S,M,0,20000,81,No Store,0,Partial High School,Normal,Manual,N
+Burien,M,F,0,100000,74,No Store,0,High School Degree,Bronze,Professional,Y
+Yakima,S,M,0,100000,81,Mid-Size Grocery,0,High School Degree,Bronze,Professional,Y
+Ballard,S,F,0,60000,39,No Store,0,Partial College,Bronze,Clerical,Y
+Lynnwood,M,F,0,80000,21,No Store,0,High School Degree,Bronze,Professional,N
+Renton,S,F,0,60000,27,No Store,0,Bachelors Degree,Bronze,Professional,N
+Walla Walla,S,M,0,40000,51,Small Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Issaquah,M,M,1,20000,31,No Store,0,Bachelors Degree,Normal,Professional,Y
+Walla Walla,S,F,0,20000,24,Small Grocery,0,Partial High School,Normal,Manual,N
+Ballard,S,M,0,60000,87,No Store,0,Bachelors Degree,Bronze,Management,Y
+Ballard,S,F,0,40000,62,No Store,0,High School Degree,Bronze,Manual,Y
+Port Orchard,S,M,0,80000,80,No Store,1,High School Degree,Normal,Management,Y
+Renton,S,M,0,40000,48,No Store,0,High School Degree,Bronze,Manual,Y
+Redmond,S,M,0,60000,24,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Redmond,S,M,0,60000,63,No Store,0,Bachelors Degree,Bronze,Professional,N
+Walla Walla,M,M,1,80000,47,Small Grocery,0,Bachelors Degree,Bronze,Management,Y
+Puyallup,S,F,0,20000,84,No Store,0,Partial High School,Normal,Skilled Manual,N
+Lynnwood,M,F,1,80000,69,No Store,0,Bachelors Degree,Bronze,Professional,N
+Redmond,S,F,0,80000,30,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Seattle,S,M,0,80000,35,Supermarket,0,Bachelors Degree,Bronze,Management,N
+Puyallup,M,F,1,40000,60,No Store,1,Partial College,Bronze,Professional,Y
+Renton,M,M,2,140000,60,No Store,0,High School Degree,Bronze,Management,N
+Tacoma,M,M,3,20000,54,Deluxe Supermarket,1,Partial High School,Normal,Skilled Manual,N
+Olympia,M,M,4,20000,57,No Store,0,Partial High School,Normal,Manual,Y
+Yakima,S,M,0,60000,86,Mid-Size Grocery,1,Bachelors Degree,Bronze,Management,N
+Tacoma,S,M,0,80000,62,Deluxe Supermarket,0,Bachelors Degree,Bronze,Management,N
+Redmond,M,F,1,140000,77,No Store,0,High School Degree,Bronze,Professional,Y
+Everett,M,M,0,60000,35,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Marysville,M,F,2,60000,52,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Puyallup,S,F,0,40000,67,No Store,0,Partial College,Bronze,Management,Y
+Kirkland,S,F,0,40000,78,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Kirkland,M,M,4,60000,52,No Store,0,Bachelors Degree,Golden,Professional,Y
+Bellingham,M,F,2,140000,52,Small Grocery,0,Partial High School,Bronze,Professional,Y
+Anacortes,S,M,0,100000,48,No Store,0,Partial High School,Bronze,Professional,Y
+Issaquah,M,M,1,80000,26,No Store,0,Bachelors Degree,Bronze,Management,N
+Bremerton,M,F,4,80000,28,Supermarket,1,Graduate Degree,Silver,Management,Y
+Bremerton,S,F,0,40000,79,Supermarket,1,Partial College,Bronze,Clerical,N
+Edmonds,M,M,5,80000,49,No Store,0,High School Degree,Golden,Professional,Y
+Yakima,M,M,4,40000,39,Mid-Size Grocery,0,High School Degree,Golden,Manual,Y
+Lynnwood,S,F,0,40000,38,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Spokane,S,M,0,40000,37,Supermarket,1,High School Degree,Bronze,Manual,N
+Puyallup,S,F,0,40000,44,No Store,0,High School Degree,Bronze,Manual,Y
+Renton,S,M,0,20000,80,No Store,0,Partial High School,Normal,Skilled Manual,N
+Lynnwood,M,M,2,60000,33,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Spokane,M,F,1,20000,43,Supermarket,1,Partial High School,Normal,Skilled Manual,Y
+Bremerton,S,F,0,40000,34,Supermarket,0,High School Degree,Silver,Manual,N
+Seattle,M,M,3,60000,34,Supermarket,0,Bachelors Degree,Golden,Management,Y
+Puyallup,S,M,0,140000,69,No Store,1,Partial High School,Bronze,Professional,Y
+Renton,S,F,0,20000,26,No Store,0,Partial High School,Normal,Skilled Manual,N
+Tacoma,M,M,1,60000,48,Deluxe Supermarket,0,Bachelors Degree,Normal,Professional,N
+Puyallup,S,M,0,80000,36,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Burien,S,F,0,20000,78,No Store,0,Partial High School,Normal,Manual,N
+Port Orchard,M,M,3,40000,58,No Store,1,High School Degree,Golden,Manual,N
+Tacoma,M,F,4,40000,35,Deluxe Supermarket,0,Partial High School,Golden,Manual,Y
+Edmonds,S,F,0,80000,73,No Store,0,Bachelors Degree,Bronze,Professional,N
+Tacoma,S,M,0,60000,47,Deluxe Supermarket,1,Bachelors Degree,Bronze,Management,N
+Marysville,S,M,0,20000,79,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Everett,M,F,2,20000,46,No Store,0,Partial High School,Normal,Skilled Manual,N
+Burien,M,F,2,40000,45,No Store,0,Partial College,Bronze,Clerical,Y
+Lynnwood,S,F,0,40000,75,No Store,0,High School Degree,Bronze,Manual,Y
+Sedro Woolley,M,M,1,40000,45,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Everett,S,M,0,140000,58,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Seattle,M,M,2,40000,85,Supermarket,0,Partial High School,Bronze,Manual,Y
+Spokane,S,M,0,60000,80,Supermarket,1,Bachelors Degree,Bronze,Professional,N
+Anacortes,S,F,0,100000,27,No Store,0,Partial College,Bronze,Professional,Y
+Port Orchard,S,M,0,40000,38,No Store,1,Partial High School,Golden,Skilled Manual,Y
+Bremerton,M,F,1,40000,69,Supermarket,0,Partial High School,Bronze,Skilled Manual,Y
+Edmonds,M,M,0,60000,45,No Store,0,Bachelors Degree,Bronze,Management,N
+Yakima,S,F,0,60000,42,Mid-Size Grocery,0,Bachelors Degree,Bronze,Management,N
+Issaquah,M,M,5,80000,65,No Store,0,Bachelors Degree,Golden,Professional,Y
+Bremerton,M,M,1,20000,41,Supermarket,0,Partial High School,Golden,Manual,N
+Ballard,S,M,0,40000,53,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Burien,S,M,0,60000,19,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Puyallup,M,M,4,40000,28,No Store,0,High School Degree,Golden,Manual,N
+Redmond,S,M,0,20000,26,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Burien,S,F,0,140000,41,No Store,0,High School Degree,Bronze,Professional,Y
+Everett,M,F,1,60000,63,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Spokane,M,F,0,140000,83,Supermarket,1,Partial College,Golden,Professional,Y
+Issaquah,M,F,2,80000,74,No Store,0,Partial High School,Bronze,Management,N
+Olympia,M,F,2,40000,46,No Store,0,High School Degree,Bronze,Manual,Y
+Renton,M,F,1,40000,87,No Store,0,Partial High School,Bronze,Manual,Y
+Sedro Woolley,S,F,0,40000,82,No Store,0,Partial College,Bronze,Management,N
+Seattle,M,M,1,60000,82,Supermarket,0,Bachelors Degree,Bronze,Management,N
+Walla Walla,S,M,0,60000,39,Small Grocery,0,High School Degree,Golden,Skilled Manual,N
+Spokane,M,F,3,40000,29,Supermarket,1,High School Degree,Golden,Skilled Manual,N
+Port Orchard,M,M,3,40000,78,No Store,0,Partial College,Golden,Clerical,Y
+Lynnwood,M,M,3,20000,82,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Issaquah,S,F,0,100000,65,No Store,0,High School Degree,Bronze,Management,Y
+Everett,M,M,0,60000,72,No Store,0,Partial College,Bronze,Professional,Y
+Bremerton,M,F,2,40000,32,Supermarket,1,High School Degree,Bronze,Manual,N
+Olympia,M,F,3,60000,43,No Store,0,Bachelors Degree,Golden,Professional,Y
+Spokane,M,M,1,60000,35,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Everett,M,F,4,120000,77,No Store,0,High School Degree,Normal,Professional,Y
+Edmonds,S,F,0,20000,82,No Store,0,Partial High School,Normal,Skilled Manual,N
+Redmond,M,F,1,120000,50,No Store,0,High School Degree,Bronze,Professional,N
+Bellingham,S,F,0,40000,43,Small Grocery,0,Partial College,Bronze,Professional,Y
+Redmond,M,M,0,40000,51,No Store,0,High School Degree,Normal,Skilled Manual,Y
+Port Orchard,M,M,0,20000,34,No Store,0,Partial High School,Normal,Manual,Y
+Sedro Woolley,M,F,0,60000,66,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Olympia,M,F,0,60000,43,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Bremerton,S,F,0,40000,59,Supermarket,1,Partial College,Bronze,Professional,Y
+Tacoma,S,F,0,40000,47,Deluxe Supermarket,0,Partial College,Bronze,Professional,N
+Bremerton,M,M,1,80000,25,Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Bellingham,S,F,0,150000,81,Small Grocery,0,High School Degree,Silver,Professional,Y
+Everett,M,M,2,100000,48,No Store,0,High School Degree,Bronze,Professional,N
+Bremerton,S,M,0,20000,76,Supermarket,0,Partial High School,Normal,Manual,N
+Bremerton,M,F,1,20000,51,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Kirkland,S,F,0,20000,55,No Store,0,Partial High School,Normal,Manual,N
+Edmonds,M,F,5,40000,27,No Store,0,High School Degree,Normal,Manual,Y
+Kirkland,M,F,3,40000,38,No Store,0,High School Degree,Golden,Manual,Y
+Lynnwood,S,M,0,80000,56,No Store,0,Bachelors Degree,Bronze,Professional,N
+Marysville,S,M,0,40000,82,No Store,0,High School Degree,Bronze,Manual,N
+Renton,S,F,0,40000,79,No Store,0,High School Degree,Bronze,Manual,N
+Ballard,M,F,0,40000,81,No Store,0,High School Degree,Bronze,Manual,Y
+Burien,S,M,0,140000,80,No Store,0,High School Degree,Bronze,Professional,Y
+Bremerton,M,M,1,40000,21,Supermarket,0,High School Degree,Bronze,Manual,N
+Ballard,M,M,3,60000,40,No Store,0,Partial High School,Golden,Skilled Manual,Y
+Bellingham,S,F,0,20000,30,Small Grocery,0,Partial High School,Normal,Manual,Y
+Edmonds,M,M,0,150000,32,No Store,0,Bachelors Degree,Silver,Professional,N
+Redmond,M,M,0,40000,21,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Spokane,M,M,2,150000,75,Supermarket,0,Partial High School,Golden,Professional,N
+Walla Walla,S,M,0,140000,81,Small Grocery,0,Partial High School,Normal,Professional,Y
+Seattle,S,M,0,40000,49,Supermarket,0,Partial High School,Silver,Skilled Manual,Y
+Renton,M,F,1,40000,75,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Bellingham,M,F,3,60000,37,Small Grocery,0,Bachelors Degree,Golden,Professional,Y
+Seattle,S,M,0,20000,36,Supermarket,0,High School Degree,Normal,Manual,N
+Spokane,S,F,0,40000,76,Supermarket,1,High School Degree,Bronze,Manual,N
+Lynnwood,S,F,0,140000,76,No Store,0,Graduate Degree,Bronze,Professional,Y
+Sedro Woolley,S,F,0,40000,24,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Tacoma,M,M,3,40000,72,Deluxe Supermarket,1,High School Degree,Golden,Skilled Manual,N
+Burien,M,F,3,80000,70,No Store,0,Partial High School,Golden,Management,N
+Port Orchard,S,F,0,40000,73,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Walla Walla,S,M,0,120000,78,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,S,F,0,40000,60,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Bellingham,S,M,0,40000,80,Small Grocery,0,High School Degree,Bronze,Skilled Manual,Y
+Bremerton,S,F,0,80000,59,Supermarket,0,High School Degree,Bronze,Professional,N
+Sedro Woolley,S,F,0,40000,34,No Store,0,Bachelors Degree,Golden,Professional,N
+Port Orchard,S,M,0,20000,19,No Store,0,Partial High School,Normal,Skilled Manual,N
+Yakima,M,F,0,60000,55,Mid-Size Grocery,0,Bachelors Degree,Bronze,Management,Y
+Marysville,M,F,0,20000,28,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Bellingham,M,F,0,60000,66,Small Grocery,0,Bachelors Degree,Golden,Professional,Y
+Olympia,S,F,0,40000,80,No Store,1,Partial High School,Bronze,Manual,Y
+Yakima,M,M,5,40000,68,Mid-Size Grocery,0,High School Degree,Golden,Skilled Manual,Y
+Lynnwood,M,M,4,40000,35,No Store,0,Partial High School,Golden,Manual,N
+Yakima,S,F,0,20000,20,Mid-Size Grocery,0,Partial High School,Normal,Manual,N
+Renton,S,F,0,20000,74,No Store,0,Partial High School,Normal,Manual,N
+Ballard,M,M,1,60000,66,No Store,0,Partial High School,Bronze,Manual,Y
+Ballard,M,F,2,100000,79,No Store,0,Bachelors Degree,Bronze,Professional,N
+Port Orchard,M,M,1,40000,87,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Spokane,S,M,0,140000,56,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Sedro Woolley,S,M,0,20000,49,No Store,0,Partial High School,Silver,Skilled Manual,N
+Everett,M,F,2,60000,25,No Store,0,High School Degree,Silver,Manual,Y
+Puyallup,S,F,0,40000,59,No Store,0,High School Degree,Silver,Skilled Manual,N
+Burien,S,M,0,140000,26,No Store,0,High School Degree,Bronze,Professional,Y
+Tacoma,S,M,0,60000,24,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Seattle,M,M,1,80000,22,Supermarket,0,Bachelors Degree,Bronze,Management,Y
+Renton,S,M,0,60000,85,No Store,0,Bachelors Degree,Bronze,Professional,N
+Walla Walla,M,F,3,20000,41,Small Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Seattle,S,F,0,20000,48,Supermarket,0,Partial High School,Normal,Manual,N
+Marysville,M,M,3,80000,19,No Store,0,Partial High School,Silver,Professional,Y
+Yakima,M,M,0,80000,40,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,N
+Marysville,M,F,3,40000,28,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Everett,S,M,0,60000,67,No Store,0,High School Degree,Bronze,Manual,N
+Walla Walla,S,F,0,80000,37,Small Grocery,0,Bachelors Degree,Bronze,Management,N
+Edmonds,M,M,1,40000,37,No Store,0,High School Degree,Silver,Manual,Y
+Sedro Woolley,M,F,1,120000,66,No Store,0,Graduate Degree,Bronze,Professional,Y
+Ballard,S,F,0,140000,58,No Store,0,High School Degree,Bronze,Professional,Y
+Everett,S,M,0,40000,28,No Store,0,High School Degree,Bronze,Manual,N
+Redmond,S,M,0,40000,39,No Store,0,Bachelors Degree,Bronze,Management,N
+Anacortes,M,F,5,80000,39,No Store,0,Partial College,Bronze,Professional,Y
+Olympia,M,F,1,40000,83,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Bremerton,S,F,0,40000,73,Supermarket,0,High School Degree,Normal,Manual,Y
+Kirkland,M,F,1,60000,21,No Store,0,Bachelors Degree,Silver,Management,Y
+Edmonds,M,M,1,20000,69,No Store,0,Partial High School,Normal,Manual,N
+Walla Walla,M,F,1,20000,77,Small Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Yakima,M,M,1,20000,36,Mid-Size Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Issaquah,S,F,0,120000,26,No Store,0,Partial High School,Bronze,Professional,Y
+Bremerton,S,M,0,40000,40,Supermarket,0,High School Degree,Bronze,Skilled Manual,N
+Bellingham,M,F,4,20000,83,Small Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Olympia,M,M,5,40000,71,No Store,1,High School Degree,Golden,Manual,Y
+Issaquah,M,M,4,20000,61,No Store,0,Partial High School,Bronze,Manual,Y
+Ballard,S,F,0,120000,40,No Store,0,Partial College,Bronze,Professional,Y
+Seattle,S,M,0,20000,39,Supermarket,0,Partial High School,Normal,Manual,Y
+Lynnwood,S,F,0,40000,24,No Store,0,High School Degree,Bronze,Manual,Y
+Yakima,M,M,0,80000,43,Mid-Size Grocery,0,Bachelors Degree,Golden,Management,N
+Kirkland,S,M,0,20000,41,No Store,0,Partial High School,Normal,Manual,N
+Spokane,S,M,0,20000,78,Supermarket,1,Partial High School,Normal,Skilled Manual,N
+Marysville,M,F,2,40000,18,No Store,0,Partial College,Bronze,Manual,Y
+Yakima,M,F,3,20000,82,Mid-Size Grocery,0,Partial High School,Normal,Skilled Manual,N
+Ballard,M,F,1,60000,81,No Store,0,Bachelors Degree,Bronze,Professional,N
+Ballard,S,M,0,60000,19,No Store,0,Partial College,Bronze,Clerical,N
+Redmond,S,M,0,40000,51,No Store,0,High School Degree,Bronze,Manual,N
+Puyallup,M,F,1,20000,87,No Store,0,Partial High School,Normal,Skilled Manual,N
+Walla Walla,S,M,0,40000,28,Small Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Port Orchard,M,M,3,20000,33,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Tacoma,M,M,2,140000,80,Deluxe Supermarket,0,High School Degree,Silver,Management,N
+Tacoma,S,F,0,60000,49,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Marysville,M,F,3,60000,85,No Store,0,Bachelors Degree,Golden,Professional,Y
+Yakima,M,M,2,80000,30,Mid-Size Grocery,1,Graduate Degree,Bronze,Professional,N
+Puyallup,M,F,0,40000,74,No Store,0,Partial College,Bronze,Manual,Y
+Marysville,S,F,0,20000,43,No Store,0,Partial High School,Normal,Skilled Manual,N
+Walla Walla,M,M,1,40000,62,Small Grocery,0,High School Degree,Bronze,Manual,N
+Olympia,M,M,2,40000,26,No Store,0,Partial College,Bronze,Professional,Y
+Issaquah,M,F,3,40000,50,No Store,0,High School Degree,Normal,Manual,Y
+Bellingham,M,F,2,40000,54,Small Grocery,0,High School Degree,Silver,Skilled Manual,Y
+Lynnwood,M,F,4,20000,57,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Edmonds,M,M,3,140000,38,No Store,0,Graduate Degree,Golden,Professional,Y
+Walla Walla,M,F,3,120000,24,Small Grocery,0,Partial High School,Golden,Management,Y
+Anacortes,S,M,0,60000,85,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Olympia,S,M,0,20000,60,No Store,0,Partial High School,Normal,Manual,N
+Yakima,S,M,0,40000,25,Mid-Size Grocery,0,High School Degree,Bronze,Manual,N
+Lynnwood,S,F,0,40000,21,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Issaquah,M,M,1,20000,24,No Store,0,Partial High School,Normal,Manual,Y
+Issaquah,M,M,0,20000,63,No Store,0,Partial High School,Normal,Manual,N
+Renton,S,F,0,140000,62,No Store,0,Partial College,Bronze,Management,Y
+Ballard,M,M,0,40000,32,No Store,0,High School Degree,Silver,Skilled Manual,Y
+Spokane,M,F,2,40000,42,Supermarket,1,Bachelors Degree,Bronze,Management,Y
+Renton,M,F,0,60000,47,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Bremerton,S,M,0,80000,84,Supermarket,0,Bachelors Degree,Silver,Professional,N
+Puyallup,S,F,0,80000,71,No Store,0,Bachelors Degree,Golden,Professional,N
+Seattle,S,F,0,120000,71,Supermarket,0,Partial High School,Bronze,Professional,Y
+Spokane,M,F,2,100000,78,Supermarket,1,Graduate Degree,Bronze,Professional,N
+Seattle,M,F,1,80000,46,Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Seattle,S,M,0,40000,59,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Lynnwood,S,F,0,60000,72,No Store,0,Partial College,Bronze,Professional,Y
+Redmond,M,M,0,40000,45,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Puyallup,S,F,0,80000,67,No Store,0,Bachelors Degree,Bronze,Professional,N
+Renton,S,F,0,20000,80,No Store,0,Bachelors Degree,Normal,Professional,Y
+Edmonds,M,M,3,40000,38,No Store,0,High School Degree,Normal,Manual,Y
+Lynnwood,S,F,0,120000,85,No Store,0,High School Degree,Bronze,Professional,Y
+Tacoma,S,M,0,60000,73,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Burien,S,F,0,60000,85,No Store,0,Bachelors Degree,Silver,Professional,N
+Puyallup,M,M,1,80000,77,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Port Orchard,S,F,0,150000,68,No Store,0,High School Degree,Silver,Professional,Y
+Everett,S,M,0,40000,77,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Anacortes,S,M,0,20000,43,No Store,0,Partial High School,Normal,Skilled Manual,N
+Kirkland,M,M,4,20000,54,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Sedro Woolley,M,F,0,40000,57,No Store,0,High School Degree,Bronze,Manual,Y
+Olympia,S,M,0,20000,42,No Store,1,Partial High School,Normal,Manual,Y
+Issaquah,S,M,0,120000,55,No Store,0,High School Degree,Bronze,Management,Y
+Burien,S,F,0,60000,69,No Store,0,Partial College,Bronze,Clerical,N
+Bellingham,M,M,3,20000,79,Small Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Bremerton,M,M,2,40000,64,Supermarket,0,Partial College,Bronze,Professional,N
+Port Orchard,S,F,0,20000,52,No Store,0,Partial High School,Normal,Manual,N
+Spokane,S,M,0,20000,71,Supermarket,1,Partial High School,Normal,Skilled Manual,N
+Issaquah,M,M,2,80000,21,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Lynnwood,S,F,0,40000,49,No Store,0,High School Degree,Bronze,Manual,Y
+Spokane,M,F,0,80000,84,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Ballard,S,F,0,40000,24,No Store,0,Partial College,Bronze,Professional,N
+Sedro Woolley,M,M,1,80000,27,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Puyallup,M,F,3,40000,54,No Store,0,Partial College,Golden,Professional,Y
+Renton,M,F,0,80000,34,No Store,0,High School Degree,Bronze,Professional,Y
+Tacoma,S,M,0,100000,74,Deluxe Supermarket,0,Partial High School,Bronze,Management,Y
+Port Orchard,S,F,0,20000,32,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Ballard,S,M,0,40000,57,No Store,0,Partial College,Bronze,Manual,N
+Port Orchard,M,F,3,120000,79,No Store,0,High School Degree,Golden,Management,Y
+Tacoma,M,M,4,40000,80,Deluxe Supermarket,0,High School Degree,Golden,Manual,Y
+Spokane,S,F,0,20000,39,Supermarket,1,Partial High School,Normal,Manual,Y
+Everett,S,F,0,120000,76,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,S,F,0,80000,20,No Store,0,Partial High School,Normal,Professional,N
+Burien,S,M,0,20000,73,No Store,0,Partial High School,Normal,Manual,Y
+Anacortes,M,F,1,140000,25,No Store,0,Bachelors Degree,Bronze,Management,Y
+Redmond,M,F,1,40000,76,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Olympia,S,F,0,120000,84,No Store,0,Bachelors Degree,Bronze,Management,Y
+Issaquah,M,M,3,100000,34,No Store,0,Bachelors Degree,Golden,Management,N
+Bremerton,S,F,0,20000,74,Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Bellingham,S,F,0,40000,84,Small Grocery,0,High School Degree,Bronze,Manual,N
+Puyallup,M,M,0,40000,34,No Store,0,Partial College,Bronze,Management,N
+Bellingham,S,M,0,60000,27,Small Grocery,0,Bachelors Degree,Bronze,Management,N
+Edmonds,M,F,2,60000,41,No Store,0,Partial College,Bronze,Skilled Manual,N
+Yakima,M,F,2,80000,61,Mid-Size Grocery,0,Graduate Degree,Bronze,Professional,Y
+Spokane,M,M,1,60000,21,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Redmond,S,F,0,60000,82,No Store,0,Partial College,Silver,Management,N
+Bremerton,M,M,0,120000,64,Supermarket,0,Partial High School,Bronze,Professional,Y
+Edmonds,M,F,0,120000,53,No Store,0,Graduate Degree,Silver,Management,Y
+Issaquah,S,M,0,40000,46,No Store,0,Partial College,Normal,Management,Y
+Lynnwood,M,F,2,60000,81,No Store,0,Partial High School,Silver,Manual,N
+Spokane,M,M,1,80000,77,Supermarket,1,Graduate Degree,Bronze,Management,Y
+Bellingham,S,F,0,140000,33,Small Grocery,0,High School Degree,Bronze,Professional,Y
+Spokane,M,F,0,80000,32,Supermarket,1,Bachelors Degree,Bronze,Professional,N
+Yakima,M,M,3,20000,68,Mid-Size Grocery,0,Partial High School,Normal,Manual,Y
+Renton,S,M,0,40000,60,No Store,0,High School Degree,Golden,Manual,N
+Olympia,M,M,1,80000,32,No Store,0,Bachelors Degree,Bronze,Management,Y
+Ballard,M,F,4,40000,48,No Store,0,Partial College,Normal,Clerical,Y
+Edmonds,S,M,0,60000,25,No Store,0,Bachelors Degree,Silver,Professional,Y
+Walla Walla,M,F,0,40000,19,Small Grocery,0,High School Degree,Bronze,Skilled Manual,Y
+Lynnwood,M,F,1,80000,72,No Store,0,Bachelors Degree,Silver,Professional,Y
+Sedro Woolley,M,F,3,60000,20,No Store,0,Bachelors Degree,Golden,Management,Y
+Edmonds,M,M,0,40000,38,No Store,0,Partial College,Bronze,Clerical,Y
+Puyallup,S,F,0,20000,36,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Issaquah,M,F,0,20000,29,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Everett,S,M,0,80000,67,No Store,0,Graduate Degree,Normal,Management,N
+Walla Walla,S,F,0,80000,69,Small Grocery,0,Graduate Degree,Golden,Management,Y
+Spokane,M,M,1,40000,61,Supermarket,1,Partial High School,Bronze,Skilled Manual,Y
+Tacoma,S,F,0,60000,76,Deluxe Supermarket,0,High School Degree,Silver,Skilled Manual,Y
+Port Orchard,M,M,0,100000,79,No Store,0,Bachelors Degree,Bronze,Management,Y
+Yakima,S,F,0,40000,57,Mid-Size Grocery,0,High School Degree,Bronze,Manual,N
+Anacortes,M,F,1,60000,59,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Port Orchard,S,M,0,40000,76,No Store,0,High School Degree,Bronze,Manual,Y
+Bremerton,M,F,0,80000,45,Supermarket,0,Bachelors Degree,Normal,Professional,Y
+Kirkland,M,M,4,40000,43,No Store,0,High School Degree,Silver,Skilled Manual,N
+Edmonds,M,F,2,40000,84,No Store,0,High School Degree,Bronze,Manual,N
+Kirkland,M,M,2,40000,26,No Store,0,Partial High School,Bronze,Skilled Manual,N
+Lynnwood,M,M,1,40000,67,No Store,0,High School Degree,Bronze,Manual,Y
+Marysville,M,M,0,140000,30,No Store,0,High School Degree,Bronze,Management,Y
+Issaquah,S,F,0,20000,37,No Store,0,Partial High School,Normal,Manual,Y
+Bremerton,M,F,2,80000,66,Supermarket,1,High School Degree,Normal,Management,Y
+Burien,M,F,4,60000,43,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Bellingham,S,F,0,20000,46,Small Grocery,0,Partial High School,Normal,Manual,Y
+Renton,M,F,0,60000,42,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Renton,M,F,3,40000,55,No Store,0,High School Degree,Golden,Manual,Y
+Sedro Woolley,S,M,0,80000,51,No Store,0,Bachelors Degree,Bronze,Professional,N
+Olympia,M,M,1,40000,59,No Store,0,Partial High School,Normal,Manual,Y
+Issaquah,S,M,0,40000,52,No Store,0,Partial College,Bronze,Professional,Y
+Renton,M,F,0,20000,52,No Store,0,Partial High School,Normal,Manual,Y
+Bremerton,M,F,0,40000,39,Supermarket,0,Partial College,Bronze,Management,N
+Sedro Woolley,M,M,2,40000,43,No Store,0,Partial College,Silver,Professional,N
+Seattle,M,F,3,60000,49,Supermarket,0,Bachelors Degree,Golden,Management,Y
+Issaquah,S,F,0,80000,59,No Store,0,Bachelors Degree,Bronze,Professional,N
+Spokane,S,M,0,20000,41,Supermarket,1,Partial High School,Normal,Skilled Manual,Y
+Renton,M,M,1,40000,44,No Store,0,Partial College,Normal,Skilled Manual,Y
+Walla Walla,M,F,1,100000,58,Small Grocery,0,Graduate Degree,Golden,Professional,Y
+Tacoma,M,F,3,40000,47,Deluxe Supermarket,0,High School Degree,Golden,Manual,Y
+Edmonds,S,M,0,20000,72,No Store,0,Partial High School,Normal,Manual,N
+Kirkland,M,F,2,20000,22,No Store,0,Partial High School,Normal,Manual,Y
+Walla Walla,M,F,0,120000,43,Small Grocery,0,High School Degree,Bronze,Professional,Y
+Edmonds,M,F,0,40000,19,No Store,0,High School Degree,Bronze,Manual,N
+Yakima,S,F,0,40000,31,Mid-Size Grocery,0,Partial High School,Bronze,Skilled Manual,Y
+Everett,M,F,1,80000,58,No Store,0,Bachelors Degree,Bronze,Management,Y
+Redmond,S,M,0,40000,83,No Store,0,High School Degree,Bronze,Manual,Y
+Everett,M,F,0,150000,48,No Store,0,High School Degree,Golden,Professional,Y
+Port Orchard,S,M,0,20000,65,No Store,0,Partial High School,Normal,Skilled Manual,N
+Sedro Woolley,M,F,0,40000,69,No Store,0,High School Degree,Bronze,Manual,Y
+Olympia,M,M,0,80000,67,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Edmonds,S,M,0,40000,27,No Store,0,Partial College,Bronze,Management,N
+Kirkland,S,M,0,100000,20,No Store,0,High School Degree,Silver,Professional,Y
+Port Orchard,M,F,4,40000,29,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Walla Walla,M,M,4,20000,60,Small Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,S,F,0,60000,63,No Store,0,Bachelors Degree,Bronze,Professional,N
+Issaquah,M,F,0,80000,25,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Port Orchard,M,M,0,60000,35,No Store,0,Partial High School,Bronze,Manual,Y
+Edmonds,M,M,5,60000,49,No Store,0,Bachelors Degree,Golden,Management,Y
+Burien,S,M,0,80000,31,No Store,0,High School Degree,Bronze,Professional,N
+Everett,M,M,1,20000,77,No Store,0,Partial High School,Normal,Manual,N
+Puyallup,S,F,0,20000,47,No Store,1,Partial High School,Normal,Manual,N
+Spokane,S,F,0,40000,44,Supermarket,0,High School Degree,Bronze,Manual,Y
+Seattle,M,M,1,120000,66,Supermarket,0,High School Degree,Bronze,Professional,Y
+Renton,M,M,3,40000,42,No Store,0,Partial College,Golden,Professional,N
+Bremerton,S,M,0,40000,47,Supermarket,1,Partial College,Bronze,Manual,N
+Kirkland,M,M,0,20000,78,No Store,0,Partial High School,Normal,Skilled Manual,N
+Redmond,M,M,1,20000,84,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Olympia,S,F,0,40000,43,No Store,0,High School Degree,Bronze,Manual,N
+Burien,M,M,0,60000,39,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Tacoma,M,F,1,80000,43,Deluxe Supermarket,0,High School Degree,Normal,Professional,Y
+Yakima,S,F,0,40000,19,Mid-Size Grocery,0,High School Degree,Bronze,Manual,Y
+Issaquah,M,F,0,40000,74,No Store,0,High School Degree,Bronze,Manual,Y
+Bellingham,M,F,4,40000,64,Small Grocery,0,Partial High School,Silver,Manual,Y
+Tacoma,S,F,0,60000,22,Deluxe Supermarket,0,High School Degree,Golden,Skilled Manual,N
+Kirkland,S,M,0,60000,71,No Store,0,Bachelors Degree,Bronze,Professional,N
+Yakima,M,F,0,120000,69,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,S,M,0,40000,81,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Seattle,M,M,1,40000,85,Supermarket,0,High School Degree,Bronze,Manual,Y
+Issaquah,M,M,4,20000,26,No Store,0,Partial High School,Normal,Skilled Manual,N
+Olympia,S,M,0,40000,68,No Store,0,High School Degree,Normal,Skilled Manual,N
+Marysville,M,F,0,20000,67,No Store,0,Partial High School,Normal,Manual,Y
+Ballard,S,F,0,20000,39,No Store,0,Partial High School,Normal,Manual,Y
+Sedro Woolley,S,M,0,40000,39,No Store,0,High School Degree,Bronze,Manual,Y
+Spokane,M,F,2,60000,62,Supermarket,1,Bachelors Degree,Bronze,Professional,N
+Edmonds,S,F,0,100000,76,No Store,0,Partial High School,Bronze,Professional,Y
+Bellingham,S,M,0,20000,47,Small Grocery,0,Partial High School,Normal,Skilled Manual,N
+Seattle,S,F,0,140000,59,Supermarket,0,Graduate Degree,Bronze,Professional,Y
+Marysville,S,M,0,20000,69,No Store,0,Partial High School,Normal,Manual,Y
+Anacortes,S,M,0,60000,84,No Store,0,Bachelors Degree,Bronze,Professional,N
+Port Orchard,S,M,0,60000,50,No Store,0,Bachelors Degree,Bronze,Professional,N
+Kirkland,S,F,0,40000,55,No Store,0,High School Degree,Bronze,Manual,Y
+Yakima,M,M,0,60000,81,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Renton,S,M,0,40000,83,No Store,0,High School Degree,Bronze,Manual,Y
+Issaquah,S,M,0,40000,36,No Store,0,High School Degree,Bronze,Manual,Y
+Burien,S,M,0,40000,61,No Store,0,Partial College,Bronze,Clerical,N
+Walla Walla,S,F,0,60000,63,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Bremerton,M,F,4,60000,39,Supermarket,0,Partial High School,Golden,Skilled Manual,Y
+Seattle,S,F,0,20000,22,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Ballard,S,F,0,80000,52,No Store,0,Bachelors Degree,Bronze,Professional,N
+Bellingham,M,F,0,60000,53,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Redmond,M,M,0,60000,43,No Store,0,Bachelors Degree,Silver,Professional,Y
+Marysville,S,F,0,140000,86,No Store,0,Partial High School,Bronze,Professional,N
+Olympia,M,F,1,20000,50,No Store,1,Partial High School,Silver,Manual,N
+Lynnwood,M,F,2,20000,42,No Store,0,Partial High School,Normal,Manual,Y
+Renton,M,F,1,20000,66,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Edmonds,S,F,0,20000,71,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Yakima,S,F,0,60000,87,Mid-Size Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Renton,M,M,1,140000,41,No Store,0,Graduate Degree,Bronze,Professional,Y
+Ballard,M,M,5,80000,36,No Store,0,Bachelors Degree,Normal,Management,N
+Anacortes,S,F,0,40000,41,No Store,0,High School Degree,Bronze,Manual,Y
+Marysville,M,F,2,60000,51,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Seattle,M,M,2,40000,84,Supermarket,0,High School Degree,Normal,Manual,Y
+Bellingham,M,M,0,150000,33,Small Grocery,0,Bachelors Degree,Golden,Professional,N
+Port Orchard,S,F,0,20000,48,No Store,0,Partial High School,Normal,Skilled Manual,N
+Renton,M,M,0,20000,39,No Store,0,Partial High School,Normal,Manual,Y
+Puyallup,S,M,0,20000,86,No Store,0,High School Degree,Golden,Manual,N
+Everett,S,F,0,80000,36,No Store,0,Partial High School,Bronze,Management,N
+Olympia,S,F,0,60000,43,No Store,0,Bachelors Degree,Bronze,Professional,N
+Bremerton,S,F,0,20000,66,Supermarket,1,Partial High School,Normal,Manual,N
+Puyallup,S,F,0,40000,58,No Store,0,Partial College,Bronze,Management,N
+Kirkland,M,F,1,20000,53,No Store,0,Partial High School,Normal,Skilled Manual,N
+Yakima,M,M,1,20000,80,Mid-Size Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Walla Walla,S,M,0,20000,65,Small Grocery,0,Partial High School,Normal,Manual,N
+Port Orchard,S,F,0,40000,29,No Store,0,High School Degree,Bronze,Manual,Y
+Walla Walla,S,M,0,20000,64,Small Grocery,0,Partial High School,Normal,Manual,N
+Burien,M,F,2,40000,78,No Store,0,Partial College,Normal,Professional,Y
+Issaquah,S,F,0,40000,54,No Store,0,High School Degree,Bronze,Manual,Y
+Puyallup,S,F,0,20000,75,No Store,0,Partial High School,Normal,Skilled Manual,N
+Redmond,M,M,0,40000,46,No Store,0,High School Degree,Bronze,Manual,Y
+Seattle,S,F,0,40000,47,Supermarket,0,Partial High School,Bronze,Manual,N
+Olympia,M,F,4,20000,47,No Store,1,Partial High School,Normal,Skilled Manual,Y
+Olympia,M,F,1,80000,32,No Store,0,Graduate Degree,Bronze,Professional,Y
+Burien,S,F,0,40000,60,No Store,0,Partial High School,Bronze,Manual,N
+Walla Walla,M,M,0,40000,40,Small Grocery,0,Partial High School,Bronze,Skilled Manual,Y
+Edmonds,M,F,2,40000,45,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Ballard,M,F,0,100000,48,No Store,0,Graduate Degree,Bronze,Professional,Y
+Marysville,S,M,0,20000,74,No Store,0,Partial High School,Normal,Manual,Y
+Lynnwood,S,M,0,40000,51,No Store,0,High School Degree,Bronze,Manual,N
+Anacortes,S,M,0,100000,26,No Store,0,Partial High School,Normal,Professional,Y
+Puyallup,S,F,0,40000,46,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Sedro Woolley,M,F,0,40000,39,No Store,0,High School Degree,Silver,Manual,Y
+Seattle,M,F,4,20000,37,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,M,M,3,100000,35,No Store,0,Bachelors Degree,Golden,Professional,Y
+Yakima,S,M,0,40000,33,Mid-Size Grocery,0,High School Degree,Bronze,Skilled Manual,Y
+Renton,M,F,0,140000,50,No Store,0,Partial High School,Bronze,Professional,Y
+Bellingham,S,M,0,60000,20,Small Grocery,0,Bachelors Degree,Bronze,Management,Y
+Port Orchard,S,F,0,120000,21,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Port Orchard,M,M,0,40000,33,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Kirkland,S,F,0,60000,63,No Store,0,Bachelors Degree,Bronze,Professional,N
+Edmonds,M,M,0,120000,48,No Store,0,High School Degree,Silver,Professional,Y
+Walla Walla,S,F,0,40000,44,Small Grocery,0,High School Degree,Bronze,Manual,Y
+Port Orchard,M,M,2,40000,78,No Store,0,High School Degree,Bronze,Manual,Y
+Burien,M,M,1,40000,43,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Issaquah,S,M,0,40000,83,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Puyallup,M,M,1,60000,82,No Store,0,Bachelors Degree,Silver,Professional,Y
+Redmond,S,M,0,60000,35,No Store,0,Bachelors Degree,Bronze,Professional,N
+Bremerton,S,F,0,40000,67,Supermarket,0,High School Degree,Bronze,Skilled Manual,N
+Renton,S,M,0,60000,58,No Store,0,Bachelors Degree,Golden,Professional,N
+Seattle,S,M,0,40000,87,Supermarket,0,Partial College,Bronze,Management,N
+Spokane,M,F,2,80000,51,Supermarket,1,Bachelors Degree,Bronze,Professional,N
+Olympia,S,M,0,60000,88,No Store,0,Bachelors Degree,Bronze,Professional,N
+Burien,S,M,0,100000,21,No Store,0,Partial High School,Bronze,Professional,Y
+Walla Walla,M,F,4,60000,71,Small Grocery,0,Bachelors Degree,Golden,Professional,Y
+Olympia,M,F,1,40000,47,No Store,1,Bachelors Degree,Bronze,Professional,Y
+Bremerton,M,F,1,40000,41,Supermarket,0,Partial College,Silver,Clerical,Y
+Tacoma,S,M,0,100000,41,Deluxe Supermarket,0,Partial High School,Bronze,Management,Y
+Lynnwood,M,M,1,60000,18,No Store,0,Bachelors Degree,Bronze,Management,Y
+Marysville,M,M,4,140000,71,No Store,0,High School Degree,Golden,Professional,Y
+Walla Walla,M,F,1,20000,86,Small Grocery,0,Partial High School,Normal,Manual,N
+Olympia,S,F,0,20000,62,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Spokane,M,M,1,80000,56,Supermarket,1,Bachelors Degree,Golden,Management,Y
+Marysville,M,F,4,150000,57,No Store,0,Partial High School,Golden,Professional,Y
+Port Orchard,M,F,1,150000,74,No Store,0,Partial High School,Golden,Professional,Y
+Kirkland,M,M,1,40000,57,No Store,0,Partial College,Bronze,Management,N
+Everett,S,M,0,60000,81,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Edmonds,S,F,0,60000,37,No Store,0,Bachelors Degree,Golden,Management,N
+Kirkland,M,M,0,80000,56,No Store,0,High School Degree,Bronze,Management,Y
+Port Orchard,M,F,1,80000,49,No Store,0,Graduate Degree,Silver,Management,Y
+Kirkland,S,F,0,150000,83,No Store,0,High School Degree,Silver,Professional,N
+Lynnwood,S,F,0,40000,41,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Lynnwood,S,M,0,80000,54,No Store,0,Partial College,Bronze,Professional,Y
+Lynnwood,M,F,0,20000,84,No Store,0,Partial High School,Normal,Manual,N
+Walla Walla,S,F,0,140000,84,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Anacortes,S,M,0,40000,23,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Issaquah,M,M,1,20000,39,No Store,0,Partial High School,Normal,Skilled Manual,N
+Walla Walla,M,F,5,20000,33,Small Grocery,0,Partial High School,Normal,Manual,Y
+Redmond,S,F,0,60000,26,No Store,0,Bachelors Degree,Bronze,Management,Y
+Walla Walla,M,M,1,40000,75,Small Grocery,0,Partial High School,Bronze,Skilled Manual,Y
+Redmond,M,M,5,40000,71,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Burien,M,F,1,40000,79,No Store,0,Partial College,Golden,Skilled Manual,Y
+Bremerton,M,M,2,40000,46,Supermarket,0,High School Degree,Golden,Skilled Manual,Y
+Olympia,M,M,3,140000,64,No Store,1,High School Degree,Golden,Professional,Y
+Spokane,S,M,0,80000,69,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Bremerton,S,M,0,40000,80,Supermarket,0,High School Degree,Bronze,Skilled Manual,N
+Bellingham,S,M,0,60000,55,Small Grocery,0,Bachelors Degree,Bronze,Management,N
+Bremerton,S,M,0,120000,84,Supermarket,0,High School Degree,Bronze,Management,Y
+Olympia,M,F,0,80000,57,No Store,0,Partial College,Bronze,Professional,Y
+Yakima,S,F,0,20000,74,Mid-Size Grocery,0,Partial High School,Normal,Manual,N
+Yakima,M,M,4,120000,76,Mid-Size Grocery,0,Partial High School,Golden,Professional,Y
+Marysville,S,F,0,20000,26,No Store,0,Partial High School,Normal,Manual,N
+Anacortes,S,F,0,40000,66,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Marysville,M,M,2,60000,32,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,M,F,0,40000,73,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Everett,M,M,1,40000,78,No Store,0,Partial College,Bronze,Professional,Y
+Puyallup,S,F,0,120000,60,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Issaquah,S,M,0,40000,77,No Store,0,Partial College,Golden,Professional,N
+Bremerton,S,F,0,20000,47,Supermarket,0,Partial High School,Normal,Manual,Y
+Bellingham,M,F,0,40000,57,Small Grocery,0,High School Degree,Bronze,Manual,Y
+Port Orchard,S,F,0,80000,59,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Yakima,S,M,0,60000,43,Mid-Size Grocery,0,Graduate Degree,Bronze,Professional,Y
+Everett,S,M,0,40000,46,No Store,0,High School Degree,Bronze,Manual,Y
+Walla Walla,S,M,0,40000,43,Small Grocery,0,High School Degree,Bronze,Manual,N
+Spokane,M,M,1,60000,44,Supermarket,1,Partial High School,Bronze,Manual,N
+Puyallup,M,M,2,20000,35,No Store,1,Partial High School,Normal,Manual,Y
+Lynnwood,M,F,0,140000,75,No Store,0,High School Degree,Silver,Professional,Y
+Burien,S,M,0,40000,32,No Store,0,Partial College,Bronze,Manual,N
+Marysville,S,M,0,140000,33,No Store,0,Graduate Degree,Bronze,Management,Y
+Port Orchard,M,M,1,80000,52,No Store,0,Bachelors Degree,Bronze,Management,Y
+Sedro Woolley,M,M,0,140000,68,No Store,0,High School Degree,Bronze,Professional,N
+Kirkland,S,F,0,100000,27,No Store,0,Partial College,Bronze,Professional,Y
+Bremerton,M,M,2,140000,56,Supermarket,0,Graduate Degree,Bronze,Management,N
+Lynnwood,M,M,5,20000,69,No Store,0,Partial High School,Normal,Manual,N
+Burien,S,F,0,60000,68,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,S,M,0,40000,28,No Store,0,Partial High School,Bronze,Manual,Y
+Issaquah,S,M,0,60000,72,No Store,0,Bachelors Degree,Silver,Management,N
+Marysville,M,F,0,20000,65,No Store,0,Partial High School,Normal,Skilled Manual,N
+Yakima,S,F,0,40000,54,Mid-Size Grocery,0,Partial College,Bronze,Management,N
+Lynnwood,S,F,0,20000,85,No Store,0,Partial High School,Normal,Skilled Manual,N
+Yakima,S,M,0,40000,29,Mid-Size Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Renton,M,F,2,60000,46,No Store,0,Bachelors Degree,Bronze,Management,N
+Seattle,M,M,1,40000,42,Supermarket,0,Partial College,Bronze,Clerical,N
+Renton,M,F,1,80000,50,No Store,0,Bachelors Degree,Bronze,Management,Y
+Lynnwood,S,F,0,40000,87,No Store,0,Partial College,Silver,Management,N
+Port Orchard,S,M,0,60000,72,No Store,0,Bachelors Degree,Bronze,Management,Y
+Seattle,S,M,0,20000,42,Supermarket,0,Partial College,Normal,Skilled Manual,Y
+Ballard,S,M,0,40000,55,No Store,0,Partial College,Bronze,Manual,N
+Seattle,M,F,3,140000,23,Supermarket,0,High School Degree,Golden,Professional,Y
+Marysville,M,M,2,20000,34,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Puyallup,M,M,0,40000,50,No Store,0,Partial College,Bronze,Professional,Y
+Burien,M,F,4,20000,59,No Store,0,Partial High School,Normal,Manual,Y
+Marysville,M,F,1,100000,27,No Store,0,Partial High School,Bronze,Management,N
+Lynnwood,S,M,0,20000,37,No Store,0,Partial High School,Normal,Manual,Y
+Edmonds,S,F,0,20000,63,No Store,0,Partial High School,Normal,Skilled Manual,N
+Redmond,S,F,0,60000,84,No Store,0,Bachelors Degree,Bronze,Professional,N
+Renton,M,F,2,60000,67,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Everett,M,F,2,150000,42,No Store,0,Partial High School,Golden,Professional,Y
+Sedro Woolley,S,F,0,100000,55,No Store,0,Partial High School,Silver,Management,Y
+Spokane,M,M,1,40000,51,Supermarket,1,Partial High School,Bronze,Manual,N
+Sedro Woolley,M,F,2,100000,72,No Store,0,Graduate Degree,Bronze,Professional,N
+Olympia,M,M,0,20000,82,No Store,1,Partial High School,Normal,Manual,N
+Seattle,S,M,0,20000,61,Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Sedro Woolley,S,M,0,40000,75,No Store,0,Partial College,Normal,Professional,Y
+Bellingham,M,F,0,60000,60,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Edmonds,M,M,0,40000,77,No Store,0,High School Degree,Bronze,Manual,N
+Port Orchard,S,F,0,140000,33,No Store,0,Graduate Degree,Bronze,Management,N
+Port Orchard,M,F,2,140000,78,No Store,0,High School Degree,Bronze,Professional,Y
+Tacoma,S,F,0,120000,72,Deluxe Supermarket,0,High School Degree,Bronze,Management,Y
+Yakima,M,M,1,20000,41,Mid-Size Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,M,M,2,80000,65,No Store,0,Partial High School,Bronze,Professional,Y
+Anacortes,M,M,0,20000,70,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,S,F,0,80000,87,No Store,0,Graduate Degree,Golden,Professional,N
+Issaquah,M,M,2,20000,74,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Spokane,S,F,0,20000,34,Supermarket,1,Partial High School,Normal,Skilled Manual,N
+Bremerton,S,M,0,20000,30,Supermarket,0,Partial High School,Normal,Manual,Y
+Puyallup,M,M,0,80000,62,No Store,0,Bachelors Degree,Bronze,Management,N
+Bremerton,M,F,2,40000,55,Supermarket,0,Partial College,Bronze,Clerical,N
+Redmond,M,F,3,40000,81,No Store,0,Partial College,Golden,Professional,Y
+Olympia,S,M,0,60000,57,No Store,1,Bachelors Degree,Bronze,Professional,N
+Burien,S,M,0,60000,21,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Seattle,S,F,0,140000,34,Supermarket,0,Partial High School,Bronze,Management,Y
+Marysville,M,M,2,40000,57,No Store,0,Partial High School,Golden,Manual,Y
+Ballard,M,F,2,60000,62,No Store,0,Bachelors Degree,Bronze,Professional,N
+Seattle,S,M,0,120000,87,Supermarket,0,High School Degree,Normal,Professional,Y
+Seattle,M,M,2,150000,85,Supermarket,0,Bachelors Degree,Golden,Management,N
+Ballard,M,M,1,80000,20,No Store,0,Graduate Degree,Bronze,Professional,Y
+Renton,S,M,0,20000,63,No Store,0,Partial High School,Normal,Skilled Manual,N
+Yakima,S,F,0,20000,19,Mid-Size Grocery,0,Partial High School,Normal,Manual,Y
+Renton,M,M,4,60000,42,No Store,0,Bachelors Degree,Golden,Management,Y
+Port Orchard,S,F,0,40000,72,No Store,0,Partial High School,Bronze,Skilled Manual,N
+Marysville,S,F,0,40000,36,No Store,0,High School Degree,Bronze,Manual,Y
+Spokane,M,F,5,140000,84,Supermarket,1,High School Degree,Silver,Professional,Y
+Anacortes,S,M,0,40000,28,No Store,0,High School Degree,Bronze,Manual,N
+Marysville,M,F,1,40000,34,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Tacoma,M,M,2,40000,39,Deluxe Supermarket,1,Bachelors Degree,Bronze,Management,N
+Burien,M,M,0,60000,50,No Store,0,Bachelors Degree,Bronze,Management,Y
+Ballard,M,M,1,40000,65,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Sedro Woolley,S,M,0,60000,27,No Store,0,Bachelors Degree,Bronze,Management,Y
+Seattle,M,M,3,60000,20,Supermarket,0,Bachelors Degree,Silver,Professional,N
+Tacoma,S,M,0,40000,29,Deluxe Supermarket,0,Partial College,Silver,Clerical,Y
+Marysville,M,M,4,40000,75,No Store,0,Partial High School,Golden,Skilled Manual,Y
+Puyallup,S,F,0,40000,21,No Store,0,High School Degree,Bronze,Manual,N
+Port Orchard,S,F,0,60000,38,No Store,1,Bachelors Degree,Golden,Management,Y
+Tacoma,S,F,0,60000,59,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Port Orchard,S,F,0,40000,22,No Store,0,Bachelors Degree,Bronze,Professional,N
+Kirkland,S,M,0,20000,59,No Store,0,Partial High School,Normal,Skilled Manual,N
+Lynnwood,S,M,0,40000,25,No Store,0,High School Degree,Golden,Manual,N
+Marysville,M,F,3,40000,40,No Store,0,Partial College,Golden,Management,N
+Burien,M,F,3,20000,65,No Store,0,Partial High School,Normal,Manual,Y
+Issaquah,S,M,0,40000,79,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Everett,S,F,0,40000,40,No Store,0,High School Degree,Bronze,Manual,N
+Redmond,M,M,3,60000,45,No Store,0,Partial High School,Golden,Manual,Y
+Issaquah,S,F,0,150000,28,No Store,0,High School Degree,Silver,Management,Y
+Renton,M,F,0,20000,75,No Store,0,Partial High School,Normal,Skilled Manual,N
+Redmond,S,M,0,60000,28,No Store,0,Bachelors Degree,Bronze,Professional,N
+Puyallup,S,M,0,40000,31,No Store,0,High School Degree,Bronze,Manual,N
+Walla Walla,S,F,0,40000,80,Small Grocery,0,Partial High School,Bronze,Skilled Manual,N
+Seattle,M,M,5,20000,30,Supermarket,0,High School Degree,Silver,Skilled Manual,Y
+Lynnwood,M,F,0,60000,23,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,M,F,0,60000,37,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Puyallup,S,F,0,40000,34,No Store,0,Partial High School,Bronze,Skilled Manual,N
+Kirkland,S,M,0,40000,85,No Store,0,Partial High School,Bronze,Manual,N
+Yakima,S,M,0,20000,36,Mid-Size Grocery,0,Partial High School,Normal,Skilled Manual,N
+Seattle,M,F,0,40000,67,Supermarket,0,High School Degree,Bronze,Manual,Y
+Edmonds,M,F,1,40000,24,No Store,0,High School Degree,Bronze,Manual,N
+Olympia,S,M,0,60000,35,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Lynnwood,S,F,0,40000,40,No Store,0,Partial High School,Silver,Manual,N
+Issaquah,M,F,0,60000,55,No Store,0,High School Degree,Bronze,Manual,N
+Everett,S,M,0,40000,87,No Store,0,High School Degree,Bronze,Manual,N
+Anacortes,M,F,0,140000,85,No Store,0,Graduate Degree,Silver,Management,N
+Edmonds,M,F,1,60000,51,No Store,0,Bachelors Degree,Silver,Professional,Y
+Spokane,M,F,3,40000,61,Supermarket,1,Partial College,Golden,Professional,Y
+Spokane,S,M,0,40000,76,Supermarket,1,High School Degree,Silver,Manual,N
+Bellingham,S,M,0,100000,21,Small Grocery,0,High School Degree,Silver,Management,N
+Bremerton,M,M,0,80000,77,Supermarket,0,Graduate Degree,Bronze,Professional,Y
+Lynnwood,M,M,1,80000,46,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,M,F,1,20000,79,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Port Orchard,M,F,0,40000,76,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Everett,M,F,3,60000,54,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Renton,M,F,1,100000,45,No Store,0,High School Degree,Silver,Professional,Y
+Tacoma,S,F,0,60000,63,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Issaquah,M,F,3,40000,43,No Store,0,High School Degree,Normal,Skilled Manual,Y
+Renton,S,M,0,80000,30,No Store,0,Bachelors Degree,Bronze,Professional,N
+Walla Walla,S,M,0,40000,43,Small Grocery,0,High School Degree,Bronze,Manual,N
+Redmond,M,F,1,150000,66,No Store,0,High School Degree,Golden,Professional,Y
+Burien,M,F,1,40000,42,No Store,0,High School Degree,Bronze,Manual,Y
+Port Orchard,S,M,0,60000,46,No Store,0,Bachelors Degree,Golden,Professional,Y
+Ballard,M,M,2,20000,38,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Seattle,M,M,1,40000,43,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Burien,M,M,3,60000,31,No Store,0,Bachelors Degree,Silver,Management,Y
+Anacortes,S,F,0,40000,47,No Store,0,High School Degree,Bronze,Manual,N
+Puyallup,S,M,0,40000,53,No Store,1,Partial High School,Bronze,Manual,Y
+Olympia,M,F,1,80000,71,No Store,0,Partial College,Bronze,Management,Y
+Edmonds,M,M,1,40000,56,No Store,0,High School Degree,Bronze,Manual,Y
+Walla Walla,S,M,0,40000,41,Small Grocery,0,High School Degree,Bronze,Manual,Y
+Tacoma,S,M,0,40000,22,Deluxe Supermarket,0,High School Degree,Bronze,Manual,N
+Port Orchard,M,M,0,20000,29,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Redmond,M,M,2,80000,22,No Store,0,Bachelors Degree,Golden,Professional,Y
+Burien,S,M,0,60000,58,No Store,0,Partial College,Bronze,Manual,Y
+Walla Walla,S,F,0,40000,29,Small Grocery,0,High School Degree,Bronze,Manual,Y
+Port Orchard,M,F,1,60000,67,No Store,0,Partial College,Bronze,Management,Y
+Edmonds,M,M,0,20000,52,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Tacoma,M,M,2,20000,65,Deluxe Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Everett,S,F,0,20000,43,No Store,0,Partial High School,Normal,Manual,Y
+Walla Walla,M,M,2,60000,58,Small Grocery,0,Bachelors Degree,Bronze,Management,N
+Olympia,S,M,0,20000,66,No Store,0,Partial High School,Normal,Skilled Manual,N
+Yakima,M,M,1,60000,62,Mid-Size Grocery,0,High School Degree,Bronze,Skilled Manual,Y
+Sedro Woolley,M,F,5,120000,41,No Store,0,High School Degree,Golden,Management,Y
+Renton,M,M,2,80000,22,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Redmond,M,M,4,20000,81,No Store,0,Bachelors Degree,Normal,Professional,Y
+Anacortes,M,M,2,60000,43,No Store,0,Bachelors Degree,Bronze,Management,Y
+Bellingham,M,F,5,40000,43,Small Grocery,0,Partial College,Bronze,Clerical,Y
+Olympia,S,F,0,60000,51,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Anacortes,S,F,0,20000,78,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,M,F,1,40000,32,No Store,0,High School Degree,Bronze,Manual,Y
+Yakima,S,M,0,60000,22,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,N
+Yakima,S,M,0,40000,73,Mid-Size Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Lynnwood,S,F,0,40000,59,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Tacoma,M,F,2,120000,26,Deluxe Supermarket,0,Partial High School,Bronze,Professional,Y
+Bremerton,M,M,1,60000,49,Supermarket,0,High School Degree,Bronze,Skilled Manual,N
+Walla Walla,S,M,0,20000,58,Small Grocery,0,Partial High School,Normal,Skilled Manual,N
+Kirkland,M,M,1,60000,23,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Burien,M,M,2,60000,34,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Kirkland,M,M,3,20000,68,No Store,0,Partial High School,Normal,Manual,Y
+Renton,M,M,0,60000,71,No Store,0,Bachelors Degree,Silver,Professional,Y
+Walla Walla,S,F,0,80000,63,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Puyallup,S,M,0,20000,88,No Store,0,Partial High School,Normal,Manual,Y
+Walla Walla,M,M,3,140000,87,Small Grocery,0,Graduate Degree,Golden,Management,Y
+Renton,S,M,0,20000,50,No Store,0,Partial High School,Normal,Manual,Y
+Puyallup,S,F,0,80000,79,No Store,0,Graduate Degree,Silver,Management,N
+Olympia,S,F,0,40000,22,No Store,0,Partial High School,Bronze,Skilled Manual,N
+Redmond,M,M,5,140000,88,No Store,0,High School Degree,Golden,Management,Y
+Tacoma,S,M,0,40000,19,Deluxe Supermarket,0,High School Degree,Bronze,Manual,Y
+Spokane,M,F,0,40000,68,Supermarket,1,High School Degree,Bronze,Manual,Y
+Edmonds,M,M,2,40000,31,No Store,0,High School Degree,Golden,Skilled Manual,N
+Olympia,S,F,0,100000,36,No Store,0,Partial High School,Bronze,Professional,N
+Port Orchard,S,M,0,40000,22,No Store,1,High School Degree,Bronze,Skilled Manual,Y
+Edmonds,S,F,0,40000,75,No Store,0,Partial College,Bronze,Professional,Y
+Edmonds,M,M,2,120000,80,No Store,0,High School Degree,Bronze,Professional,N
+Olympia,S,M,0,20000,46,No Store,0,Partial High School,Normal,Skilled Manual,N
+Issaquah,S,F,0,80000,40,No Store,0,High School Degree,Silver,Management,Y
+Everett,S,M,0,60000,66,No Store,0,High School Degree,Normal,Skilled Manual,N
+Walla Walla,M,M,0,100000,87,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Bremerton,M,F,3,40000,70,Supermarket,0,Partial College,Bronze,Skilled Manual,Y
+Renton,S,M,0,40000,85,No Store,0,Partial College,Bronze,Professional,N
+Yakima,M,F,0,20000,32,Mid-Size Grocery,0,Partial High School,Normal,Skilled Manual,N
+Edmonds,S,M,0,60000,19,No Store,0,Bachelors Degree,Bronze,Professional,N
+Spokane,M,F,3,150000,69,Supermarket,1,High School Degree,Golden,Professional,Y
+Marysville,S,F,0,40000,23,No Store,0,Partial High School,Bronze,Manual,N
+Spokane,S,M,0,140000,25,Supermarket,1,Partial High School,Bronze,Professional,Y
+Sedro Woolley,S,M,0,120000,44,No Store,0,Bachelors Degree,Bronze,Professional,N
+Olympia,S,M,0,80000,54,No Store,1,Bachelors Degree,Bronze,Professional,N
+Bremerton,M,M,1,20000,85,Supermarket,0,Partial High School,Normal,Manual,Y
+Bellingham,M,M,0,40000,84,Small Grocery,0,High School Degree,Silver,Manual,Y
+Anacortes,S,M,0,140000,64,No Store,0,High School Degree,Silver,Professional,Y
+Yakima,S,M,0,60000,37,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,N
+Yakima,S,F,0,20000,20,Mid-Size Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Marysville,M,F,0,40000,21,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Kirkland,M,F,0,40000,53,No Store,0,High School Degree,Bronze,Manual,Y
+Walla Walla,M,F,3,20000,76,Small Grocery,0,Partial High School,Normal,Manual,Y
+Port Orchard,S,M,0,40000,40,No Store,1,High School Degree,Bronze,Manual,N
+Issaquah,M,F,2,40000,48,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Redmond,S,F,0,120000,23,No Store,0,High School Degree,Bronze,Professional,Y
+Olympia,S,M,0,40000,68,No Store,1,High School Degree,Bronze,Skilled Manual,Y
+Burien,M,F,4,40000,71,No Store,0,High School Degree,Golden,Manual,Y
+Seattle,S,F,0,60000,39,Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Seattle,M,F,3,120000,40,Supermarket,0,Bachelors Degree,Golden,Professional,Y
+Seattle,M,M,1,40000,78,Supermarket,0,High School Degree,Bronze,Skilled Manual,N
+Olympia,S,M,0,40000,21,No Store,0,Partial College,Bronze,Management,Y
+Seattle,S,F,0,80000,49,Supermarket,0,Graduate Degree,Bronze,Management,N
+Anacortes,S,M,0,20000,84,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Spokane,M,F,1,140000,39,Supermarket,1,Graduate Degree,Bronze,Management,Y
+Puyallup,S,M,0,40000,44,No Store,0,Partial High School,Bronze,Manual,Y
+Kirkland,M,M,4,40000,58,No Store,0,Partial High School,Silver,Manual,Y
+Edmonds,S,F,0,60000,61,No Store,0,Bachelors Degree,Bronze,Management,N
+Olympia,S,M,0,40000,28,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Issaquah,S,F,0,100000,53,No Store,0,High School Degree,Bronze,Professional,Y
+Bremerton,M,M,2,60000,36,Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Burien,M,F,3,40000,77,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Edmonds,S,M,0,80000,52,No Store,0,Bachelors Degree,Silver,Professional,Y
+Issaquah,M,F,1,40000,63,No Store,0,High School Degree,Bronze,Manual,Y
+Seattle,S,M,0,140000,34,Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Spokane,S,F,0,60000,72,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Sedro Woolley,M,M,3,60000,85,No Store,0,Bachelors Degree,Golden,Professional,Y
+Sedro Woolley,S,F,0,40000,49,No Store,0,Partial College,Bronze,Skilled Manual,N
+Seattle,M,F,2,140000,52,Supermarket,0,Partial High School,Bronze,Professional,N
+Renton,S,M,0,40000,41,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Yakima,S,M,0,100000,83,Mid-Size Grocery,0,Partial High School,Bronze,Professional,N
+Anacortes,M,F,1,40000,73,No Store,0,Partial High School,Bronze,Manual,Y
+Olympia,S,M,0,60000,29,No Store,0,Partial High School,Normal,Skilled Manual,N
+Bellingham,M,M,0,20000,78,Small Grocery,0,Partial High School,Bronze,Skilled Manual,Y
+Yakima,S,M,0,80000,27,Mid-Size Grocery,0,Graduate Degree,Bronze,Management,N
+Lynnwood,S,F,0,20000,32,No Store,0,Partial High School,Normal,Manual,N
+Bellingham,M,F,0,20000,58,Small Grocery,0,Partial High School,Normal,Manual,N
+Port Orchard,S,M,0,60000,57,No Store,0,Bachelors Degree,Bronze,Professional,N
+Yakima,M,M,1,120000,35,Mid-Size Grocery,0,High School Degree,Normal,Management,Y
+Anacortes,M,F,0,40000,26,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Yakima,M,F,2,60000,24,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Burien,S,M,0,20000,84,No Store,0,Partial High School,Normal,Manual,Y
+Kirkland,M,M,0,60000,81,No Store,0,Bachelors Degree,Bronze,Professional,N
+Puyallup,S,M,0,40000,56,No Store,0,High School Degree,Bronze,Manual,N
+Issaquah,S,M,0,60000,30,No Store,0,Bachelors Degree,Bronze,Professional,N
+Olympia,S,M,0,20000,31,No Store,0,Partial High School,Normal,Manual,Y
+Burien,M,M,0,40000,21,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Ballard,M,M,0,80000,21,No Store,0,Bachelors Degree,Bronze,Management,Y
+Puyallup,S,F,0,20000,42,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,M,M,3,40000,47,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Olympia,S,M,0,60000,45,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Walla Walla,S,M,0,80000,56,Small Grocery,0,Graduate Degree,Bronze,Professional,N
+Edmonds,S,M,0,120000,75,No Store,0,Bachelors Degree,Normal,Professional,N
+Seattle,M,F,4,100000,55,Supermarket,0,High School Degree,Silver,Professional,N
+Olympia,S,F,0,40000,56,No Store,1,High School Degree,Bronze,Skilled Manual,Y
+Sedro Woolley,S,F,0,40000,37,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Redmond,S,F,0,40000,87,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Burien,S,M,0,60000,85,No Store,0,Bachelors Degree,Silver,Professional,N
+Anacortes,S,F,0,20000,23,No Store,0,High School Degree,Normal,Skilled Manual,N
+Sedro Woolley,S,M,0,60000,72,No Store,0,Partial High School,Silver,Manual,N
+Marysville,M,F,1,40000,45,No Store,0,High School Degree,Bronze,Manual,Y
+Seattle,M,M,0,80000,29,Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Bellingham,S,M,0,40000,55,Small Grocery,0,Partial College,Bronze,Clerical,Y
+Bellingham,S,M,0,20000,36,Small Grocery,0,Partial High School,Normal,Manual,N
+Olympia,S,F,0,40000,76,No Store,0,High School Degree,Golden,Manual,N
+Burien,S,F,0,60000,59,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Port Orchard,S,F,0,40000,85,No Store,1,High School Degree,Bronze,Manual,N
+Tacoma,S,M,0,20000,48,Deluxe Supermarket,0,Partial High School,Normal,Manual,N
+Bremerton,S,M,0,40000,38,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Walla Walla,M,M,3,140000,74,Small Grocery,0,Bachelors Degree,Silver,Professional,Y
+Port Orchard,M,M,3,40000,50,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Kirkland,M,M,2,40000,83,No Store,0,Partial College,Normal,Skilled Manual,N
+Lynnwood,S,F,0,20000,42,No Store,0,Partial High School,Bronze,Manual,N
+Lynnwood,M,F,0,40000,51,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Marysville,M,F,0,40000,59,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Spokane,M,M,2,40000,55,Supermarket,1,High School Degree,Bronze,Skilled Manual,Y
+Burien,S,F,0,40000,42,No Store,0,Partial High School,Golden,Manual,N
+Renton,S,F,0,40000,71,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Ballard,M,M,0,40000,54,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Yakima,M,F,1,80000,65,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Tacoma,S,F,0,40000,34,Deluxe Supermarket,0,High School Degree,Bronze,Manual,Y
+Bremerton,M,F,1,40000,49,Supermarket,0,Partial College,Bronze,Management,Y
+Puyallup,S,M,0,40000,86,No Store,0,High School Degree,Silver,Skilled Manual,N
+Olympia,S,M,0,20000,58,No Store,0,Partial High School,Normal,Manual,Y
+Burien,S,F,0,40000,23,No Store,0,Partial College,Bronze,Management,N
+Olympia,M,M,3,20000,50,No Store,1,Partial High School,Normal,Skilled Manual,Y
+Renton,S,F,0,20000,57,No Store,0,Partial High School,Normal,Manual,N
+Edmonds,M,F,2,140000,63,No Store,0,Partial High School,Bronze,Professional,Y
+Issaquah,S,M,0,60000,37,No Store,0,Bachelors Degree,Golden,Professional,N
+Edmonds,S,F,0,60000,72,No Store,0,Bachelors Degree,Bronze,Management,Y
+Anacortes,S,F,0,80000,68,No Store,0,Graduate Degree,Bronze,Professional,N
+Marysville,S,M,0,60000,71,No Store,0,Bachelors Degree,Silver,Professional,N
+Spokane,S,M,0,40000,56,Supermarket,1,High School Degree,Bronze,Skilled Manual,Y
+Olympia,M,M,2,120000,21,No Store,1,Bachelors Degree,Bronze,Professional,Y
+Everett,M,F,1,120000,75,No Store,0,Partial High School,Bronze,Management,Y
+Anacortes,S,M,0,80000,86,No Store,0,Graduate Degree,Bronze,Professional,N
+Redmond,S,M,0,40000,27,No Store,0,Partial College,Bronze,Management,N
+Anacortes,M,F,0,80000,47,No Store,0,Bachelors Degree,Bronze,Professional,N
+Seattle,S,M,0,20000,19,Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Bellingham,S,M,0,20000,83,Small Grocery,0,Partial High School,Normal,Skilled Manual,N
+Olympia,M,F,1,20000,34,No Store,1,Partial High School,Normal,Skilled Manual,Y
+Issaquah,M,F,0,20000,84,No Store,0,Partial High School,Normal,Manual,Y
+Bremerton,M,F,2,100000,55,Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Edmonds,M,F,0,60000,19,No Store,0,Bachelors Degree,Silver,Professional,N
+Walla Walla,S,M,0,60000,59,Small Grocery,0,High School Degree,Bronze,Skilled Manual,Y
+Yakima,S,M,0,40000,72,Mid-Size Grocery,0,High School Degree,Bronze,Manual,N
+Ballard,S,F,0,100000,37,No Store,0,High School Degree,Bronze,Management,Y
+Lynnwood,S,M,0,150000,87,No Store,0,Bachelors Degree,Silver,Professional,Y
+Bremerton,M,F,1,150000,39,Supermarket,0,Bachelors Degree,Golden,Management,Y
+Issaquah,S,F,0,40000,26,No Store,0,Partial High School,Silver,Skilled Manual,N
+Spokane,M,M,3,40000,72,Supermarket,1,High School Degree,Golden,Manual,Y
+Bremerton,S,M,0,60000,68,Supermarket,0,Bachelors Degree,Bronze,Management,N
+Puyallup,S,F,0,60000,30,No Store,0,Partial College,Bronze,Skilled Manual,N
+Lynnwood,M,M,2,150000,66,No Store,0,High School Degree,Golden,Professional,N
+Seattle,S,F,0,140000,29,Supermarket,0,High School Degree,Bronze,Management,N
+Anacortes,S,M,0,40000,85,No Store,0,High School Degree,Bronze,Manual,N
+Tacoma,M,F,1,40000,74,Deluxe Supermarket,1,High School Degree,Bronze,Skilled Manual,Y
+Renton,S,F,0,100000,39,No Store,0,Partial High School,Bronze,Professional,Y
+Tacoma,M,F,1,40000,34,Deluxe Supermarket,1,High School Degree,Bronze,Skilled Manual,N
+Tacoma,S,F,0,80000,49,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Renton,M,M,2,140000,75,No Store,0,Graduate Degree,Bronze,Professional,Y
+Spokane,M,M,3,20000,31,Supermarket,1,Partial High School,Bronze,Skilled Manual,Y
+Seattle,S,F,0,20000,50,Supermarket,0,Partial High School,Normal,Manual,Y
+Marysville,S,F,0,40000,54,No Store,0,High School Degree,Bronze,Manual,Y
+Walla Walla,S,M,0,40000,69,Small Grocery,0,Partial High School,Bronze,Skilled Manual,N
+Everett,M,F,0,120000,65,No Store,0,High School Degree,Bronze,Professional,Y
+Walla Walla,M,F,0,150000,67,Small Grocery,0,High School Degree,Golden,Professional,N
+Edmonds,S,M,0,120000,20,No Store,0,High School Degree,Bronze,Professional,Y
+Ballard,M,F,1,60000,58,No Store,0,Bachelors Degree,Normal,Professional,Y
+Everett,S,M,0,40000,57,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Anacortes,S,F,0,60000,23,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Olympia,S,F,0,40000,45,No Store,0,High School Degree,Silver,Manual,Y
+Kirkland,M,F,3,40000,34,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Redmond,M,M,3,40000,69,No Store,0,Partial High School,Golden,Skilled Manual,Y
+Bremerton,S,F,0,40000,42,Supermarket,0,High School Degree,Bronze,Skilled Manual,N
+Spokane,S,M,0,40000,74,Supermarket,1,Partial College,Bronze,Management,N
+Burien,S,M,0,100000,29,No Store,0,High School Degree,Golden,Professional,Y
+Sedro Woolley,M,F,3,40000,44,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Walla Walla,M,F,4,20000,51,Small Grocery,0,Partial High School,Normal,Manual,Y
+Yakima,M,M,2,40000,79,Mid-Size Grocery,0,Partial College,Bronze,Skilled Manual,N
+Edmonds,M,M,1,60000,36,No Store,0,Partial College,Bronze,Professional,Y
+Issaquah,S,F,0,80000,66,No Store,0,Bachelors Degree,Bronze,Professional,N
+Renton,S,F,0,100000,29,No Store,0,High School Degree,Bronze,Management,Y
+Tacoma,M,M,5,120000,51,Deluxe Supermarket,0,Bachelors Degree,Silver,Professional,N
+Spokane,S,F,0,20000,86,Supermarket,1,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,S,F,0,120000,47,No Store,0,Graduate Degree,Bronze,Professional,Y
+Lynnwood,M,M,1,80000,67,No Store,0,High School Degree,Silver,Professional,Y
+Marysville,S,F,0,60000,28,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Kirkland,S,M,0,40000,37,No Store,0,High School Degree,Bronze,Manual,N
+Tacoma,S,F,0,20000,30,Deluxe Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Seattle,M,F,0,20000,81,Supermarket,0,Partial High School,Normal,Manual,Y
+Lynnwood,S,M,0,40000,33,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Everett,S,M,0,40000,84,No Store,0,High School Degree,Bronze,Manual,N
+Tacoma,M,F,2,120000,24,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Renton,M,M,4,80000,30,No Store,0,Bachelors Degree,Golden,Professional,Y
+Ballard,S,M,0,40000,45,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Sedro Woolley,M,F,2,40000,59,No Store,0,High School Degree,Bronze,Manual,Y
+Walla Walla,S,F,0,140000,22,Small Grocery,0,High School Degree,Bronze,Management,N
+Port Orchard,M,M,0,80000,85,No Store,1,Bachelors Degree,Bronze,Professional,Y
+Bellingham,M,M,4,20000,72,Small Grocery,0,Partial High School,Normal,Manual,Y
+Marysville,S,F,0,80000,69,No Store,0,Bachelors Degree,Bronze,Professional,N
+Yakima,M,F,2,60000,67,Mid-Size Grocery,0,Bachelors Degree,Golden,Professional,N
+Anacortes,S,M,0,80000,43,No Store,0,Bachelors Degree,Bronze,Professional,N
+Anacortes,S,M,0,40000,88,No Store,0,Partial High School,Bronze,Manual,N
+Kirkland,M,M,0,40000,34,No Store,0,High School Degree,Bronze,Manual,Y
+Kirkland,M,F,1,80000,39,No Store,0,Bachelors Degree,Bronze,Professional,N
+Edmonds,S,M,0,60000,49,No Store,0,Bachelors Degree,Bronze,Professional,N
+Ballard,S,M,0,40000,62,No Store,0,High School Degree,Bronze,Manual,N
+Bremerton,M,M,1,20000,86,Supermarket,0,Partial High School,Normal,Manual,Y
+Spokane,S,F,0,80000,25,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Bremerton,M,F,0,20000,46,Supermarket,0,Partial High School,Normal,Manual,Y
+Issaquah,M,F,0,60000,72,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,S,F,0,80000,85,No Store,0,High School Degree,Bronze,Professional,Y
+Ballard,M,F,1,80000,45,No Store,0,Graduate Degree,Bronze,Professional,Y
+Seattle,M,M,1,20000,64,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Spokane,M,M,2,80000,36,Supermarket,1,Partial High School,Bronze,Management,Y
+Bremerton,M,F,1,20000,76,Supermarket,0,Partial High School,Normal,Manual,Y
+Ballard,S,F,0,100000,51,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Tacoma,M,M,2,80000,62,Deluxe Supermarket,0,High School Degree,Bronze,Professional,Y
+Renton,S,M,0,80000,59,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Kirkland,S,F,0,120000,63,No Store,0,Graduate Degree,Silver,Management,Y
+Redmond,S,M,0,20000,84,No Store,0,Partial High School,Normal,Skilled Manual,N
+Port Orchard,S,M,0,40000,67,No Store,0,Partial College,Bronze,Skilled Manual,N
+Marysville,S,M,0,20000,75,No Store,0,Partial High School,Normal,Manual,Y
+Edmonds,S,F,0,60000,50,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Olympia,S,M,0,20000,27,No Store,0,Partial High School,Normal,Manual,Y
+Issaquah,M,F,1,60000,86,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Everett,S,F,0,40000,54,No Store,0,Partial High School,Bronze,Skilled Manual,N
+Everett,M,F,0,20000,22,No Store,0,Partial High School,Normal,Manual,Y
+Walla Walla,M,M,5,20000,62,Small Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Bremerton,S,M,0,40000,45,Supermarket,0,High School Degree,Bronze,Skilled Manual,N
+Tacoma,S,M,0,40000,68,Deluxe Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Walla Walla,S,M,0,20000,52,Small Grocery,0,Partial High School,Normal,Manual,N
+Sedro Woolley,S,F,0,40000,86,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Everett,S,M,0,20000,37,No Store,0,Bachelors Degree,Normal,Professional,N
+Redmond,M,F,2,40000,79,No Store,0,Partial High School,Silver,Manual,Y
+Anacortes,M,F,0,100000,40,No Store,0,Partial High School,Silver,Professional,Y
+Olympia,S,M,0,20000,49,No Store,0,High School Degree,Normal,Skilled Manual,N
+Everett,S,F,0,60000,23,No Store,0,Partial High School,Bronze,Manual,Y
+Olympia,S,M,0,40000,27,No Store,0,Partial College,Bronze,Manual,N
+Bremerton,S,M,0,20000,74,Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Walla Walla,M,M,0,20000,83,Small Grocery,0,Partial High School,Normal,Manual,N
+Kirkland,M,F,0,60000,48,No Store,0,High School Degree,Bronze,Manual,Y
+Kirkland,M,M,3,60000,55,No Store,0,Bachelors Degree,Golden,Professional,Y
+Lynnwood,M,F,0,80000,59,No Store,0,Bachelors Degree,Bronze,Professional,N
+Bellingham,M,F,2,40000,65,Small Grocery,0,Partial College,Bronze,Clerical,N
+Burien,S,M,0,120000,72,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Yakima,S,M,0,140000,64,Mid-Size Grocery,0,High School Degree,Bronze,Professional,Y
+Everett,M,M,2,40000,36,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Issaquah,M,F,3,20000,19,No Store,0,High School Degree,Normal,Skilled Manual,Y
+Sedro Woolley,M,F,2,80000,20,No Store,0,Graduate Degree,Bronze,Management,Y
+Port Orchard,S,M,0,40000,61,No Store,0,High School Degree,Bronze,Manual,N
+Issaquah,S,M,0,20000,30,No Store,0,Partial High School,Normal,Manual,N
+Walla Walla,S,M,0,40000,81,Small Grocery,0,Partial High School,Normal,Manual,N
+Tacoma,M,F,5,60000,45,Deluxe Supermarket,1,Bachelors Degree,Silver,Professional,Y
+Olympia,S,F,0,40000,34,No Store,0,High School Degree,Golden,Skilled Manual,N
+Redmond,M,M,3,20000,22,No Store,0,Partial High School,Silver,Skilled Manual,Y
+Port Orchard,M,M,1,100000,82,No Store,0,Bachelors Degree,Bronze,Management,Y
+Seattle,S,M,0,80000,65,Supermarket,0,Graduate Degree,Bronze,Professional,N
+Puyallup,S,M,0,140000,68,No Store,1,Bachelors Degree,Bronze,Professional,Y
+Bremerton,M,M,1,60000,60,Supermarket,1,Partial College,Bronze,Professional,Y
+Renton,S,F,0,40000,75,No Store,0,Partial College,Bronze,Professional,N
+Yakima,M,F,2,40000,49,Mid-Size Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Tacoma,M,F,2,100000,81,Deluxe Supermarket,0,Graduate Degree,Bronze,Professional,N
+Edmonds,M,F,2,140000,24,No Store,0,High School Degree,Bronze,Professional,N
+Tacoma,S,M,0,80000,62,Deluxe Supermarket,0,Graduate Degree,Bronze,Professional,N
+Walla Walla,M,M,0,20000,87,Small Grocery,0,Partial High School,Normal,Manual,Y
+Redmond,S,F,0,40000,64,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Everett,M,F,4,80000,81,No Store,0,Bachelors Degree,Golden,Professional,Y
+Redmond,S,M,0,60000,66,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Burien,S,F,0,40000,23,No Store,0,Bachelors Degree,Bronze,Professional,N
+Olympia,S,M,0,20000,82,No Store,1,Partial High School,Bronze,Manual,N
+Everett,S,F,0,80000,83,No Store,0,Graduate Degree,Bronze,Professional,N
+Olympia,M,M,0,40000,83,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Kirkland,M,F,0,40000,59,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Burien,S,M,0,40000,60,No Store,0,High School Degree,Bronze,Manual,N
+Anacortes,M,M,1,40000,26,No Store,0,High School Degree,Bronze,Manual,N
+Issaquah,S,M,0,20000,60,No Store,0,Partial High School,Normal,Skilled Manual,N
+Bremerton,S,F,0,40000,58,Supermarket,0,High School Degree,Golden,Skilled Manual,Y
+Edmonds,S,F,0,40000,72,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Yakima,S,M,0,40000,55,Mid-Size Grocery,0,High School Degree,Bronze,Manual,Y
+Issaquah,M,M,4,20000,40,No Store,0,Partial High School,Normal,Manual,Y
+Bremerton,M,F,2,60000,48,Supermarket,0,Bachelors Degree,Bronze,Management,Y
+Spokane,S,F,0,140000,46,Supermarket,1,High School Degree,Bronze,Management,N
+Spokane,S,F,0,40000,21,Supermarket,1,Graduate Degree,Bronze,Professional,Y
+Renton,S,F,0,60000,83,No Store,0,Bachelors Degree,Bronze,Management,N
+Kirkland,M,M,0,40000,56,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Bremerton,M,M,0,40000,85,Supermarket,0,High School Degree,Bronze,Manual,Y
+Renton,S,F,0,120000,72,No Store,0,Graduate Degree,Normal,Management,Y
+Olympia,M,F,4,80000,38,No Store,1,Graduate Degree,Golden,Management,Y
+Bellingham,S,F,0,40000,82,Small Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Burien,S,F,0,80000,38,No Store,0,Bachelors Degree,Bronze,Management,N
+Renton,M,F,1,60000,19,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Sedro Woolley,M,F,1,80000,59,No Store,0,Graduate Degree,Bronze,Management,Y
+Spokane,S,F,0,60000,42,Supermarket,1,Bachelors Degree,Bronze,Professional,N
+Seattle,S,M,0,100000,59,Supermarket,0,Graduate Degree,Bronze,Professional,N
+Renton,S,F,0,40000,41,No Store,0,Partial College,Bronze,Professional,N
+Lynnwood,S,M,0,40000,51,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Bellingham,S,F,0,140000,57,Small Grocery,0,High School Degree,Golden,Professional,Y
+Tacoma,S,F,0,20000,33,Deluxe Supermarket,1,Partial High School,Normal,Manual,N
+Tacoma,M,M,2,40000,40,Deluxe Supermarket,0,High School Degree,Bronze,Manual,N
+Olympia,M,M,4,100000,30,No Store,0,High School Degree,Golden,Professional,Y
+Seattle,S,M,0,40000,51,Supermarket,0,High School Degree,Golden,Manual,N
+Everett,M,M,4,60000,64,No Store,0,Bachelors Degree,Golden,Professional,Y
+Burien,S,M,0,40000,83,No Store,0,High School Degree,Silver,Skilled Manual,N
+Lynnwood,S,M,0,40000,54,No Store,0,Partial High School,Bronze,Skilled Manual,N
+Sedro Woolley,M,F,0,40000,50,No Store,0,Partial College,Silver,Skilled Manual,Y
+Everett,M,F,3,40000,32,No Store,0,High School Degree,Golden,Manual,Y
+Tacoma,M,F,0,20000,29,Deluxe Supermarket,0,Partial High School,Normal,Manual,N
+Marysville,M,F,1,120000,82,No Store,0,Bachelors Degree,Bronze,Management,Y
+Bellingham,M,F,1,120000,69,Small Grocery,0,Bachelors Degree,Bronze,Management,Y
+Yakima,S,F,0,20000,84,Mid-Size Grocery,0,Partial High School,Normal,Manual,N
+Bremerton,S,F,0,40000,54,Supermarket,0,Partial College,Bronze,Skilled Manual,Y
+Burien,S,F,0,40000,85,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Everett,M,F,0,120000,29,No Store,0,Partial College,Bronze,Professional,Y
+Spokane,M,F,4,20000,49,Supermarket,1,Partial High School,Normal,Skilled Manual,Y
+Issaquah,M,F,0,40000,75,No Store,0,High School Degree,Silver,Manual,N
+Olympia,M,F,0,80000,86,No Store,0,Bachelors Degree,Bronze,Professional,N
+Ballard,S,F,0,60000,48,No Store,0,Bachelors Degree,Bronze,Professional,N
+Seattle,M,M,1,40000,46,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Yakima,S,F,0,40000,40,Mid-Size Grocery,0,Partial College,Bronze,Management,Y
+Lynnwood,M,F,0,80000,66,No Store,0,Bachelors Degree,Bronze,Professional,N
+Redmond,M,F,2,40000,79,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Tacoma,M,F,4,40000,76,Deluxe Supermarket,0,Partial College,Golden,Clerical,Y
+Spokane,M,M,1,20000,87,Supermarket,1,Partial High School,Normal,Manual,Y
+Port Orchard,S,F,0,60000,35,No Store,0,Bachelors Degree,Bronze,Professional,N
+Puyallup,M,M,0,100000,54,No Store,1,Partial High School,Bronze,Management,Y
+Walla Walla,S,M,0,60000,24,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Everett,M,M,0,20000,58,No Store,0,Partial High School,Normal,Manual,Y
+Edmonds,M,F,0,120000,67,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Redmond,S,F,0,40000,55,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Bellingham,M,M,2,80000,48,Small Grocery,0,Bachelors Degree,Bronze,Management,N
+Olympia,S,F,0,120000,34,No Store,0,Partial High School,Silver,Professional,Y
+Kirkland,S,F,0,20000,85,No Store,0,Partial High School,Normal,Manual,Y
+Anacortes,M,M,1,60000,41,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,S,F,0,60000,85,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Issaquah,S,F,0,40000,71,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Bellingham,M,F,3,40000,80,Small Grocery,0,Partial High School,Silver,Manual,Y
+Marysville,M,F,0,20000,27,No Store,0,Partial High School,Normal,Manual,Y
+Renton,M,M,1,120000,43,No Store,0,Graduate Degree,Bronze,Professional,Y
+Redmond,S,M,0,20000,41,No Store,0,Partial High School,Normal,Manual,Y
+Sedro Woolley,M,M,1,20000,44,No Store,0,Partial High School,Normal,Manual,Y
+Walla Walla,S,M,0,20000,25,Small Grocery,0,Partial High School,Normal,Manual,N
+Bremerton,M,M,4,40000,30,Supermarket,1,High School Degree,Golden,Skilled Manual,Y
+Puyallup,M,F,3,80000,67,No Store,0,Bachelors Degree,Golden,Management,Y
+Seattle,S,M,0,40000,76,Supermarket,0,High School Degree,Bronze,Manual,N
+Burien,S,M,0,40000,23,No Store,0,High School Degree,Bronze,Manual,N
+Bellingham,S,F,0,40000,25,Small Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Seattle,S,M,0,40000,66,Supermarket,0,Partial College,Silver,Professional,N
+Olympia,M,M,0,40000,23,No Store,0,Bachelors Degree,Bronze,Management,Y
+Tacoma,S,M,0,120000,61,Deluxe Supermarket,0,High School Degree,Normal,Management,Y
+Yakima,S,F,0,40000,29,Mid-Size Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Marysville,M,F,1,140000,32,No Store,0,Partial High School,Bronze,Professional,Y
+Tacoma,M,F,0,80000,48,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Port Orchard,S,M,0,80000,29,No Store,0,Bachelors Degree,Bronze,Management,N
+Tacoma,S,F,0,80000,54,Deluxe Supermarket,0,High School Degree,Bronze,Management,Y
+Ballard,S,F,0,20000,32,No Store,0,Partial High School,Normal,Manual,N
+Burien,S,F,0,60000,84,No Store,0,Partial College,Bronze,Clerical,Y
+Walla Walla,S,F,0,60000,85,Small Grocery,0,High School Degree,Golden,Skilled Manual,Y
+Puyallup,S,F,0,20000,82,No Store,1,Partial High School,Normal,Skilled Manual,N
+Anacortes,M,F,0,40000,56,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Walla Walla,S,F,0,40000,80,Small Grocery,0,Partial College,Bronze,Clerical,N
+Marysville,M,M,2,60000,80,No Store,0,Bachelors Degree,Normal,Professional,Y
+Kirkland,S,F,0,100000,34,No Store,0,Graduate Degree,Bronze,Professional,N
+Lynnwood,S,F,0,40000,32,No Store,0,Partial College,Bronze,Management,Y
+Kirkland,S,F,0,20000,19,No Store,0,Partial High School,Normal,Manual,Y
+Tacoma,S,M,0,40000,70,Deluxe Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Lynnwood,S,F,0,40000,55,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Ballard,M,F,2,20000,22,No Store,0,Partial High School,Normal,Manual,Y
+Burien,M,F,1,20000,40,No Store,0,Bachelors Degree,Normal,Professional,Y
+Kirkland,M,F,1,40000,74,No Store,0,High School Degree,Silver,Manual,N
+Puyallup,S,M,0,80000,82,No Store,0,Bachelors Degree,Bronze,Professional,N
+Walla Walla,M,M,5,100000,29,Small Grocery,0,Graduate Degree,Golden,Professional,N
+Puyallup,M,M,1,100000,56,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Puyallup,M,F,1,60000,61,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Walla Walla,S,M,0,40000,27,Small Grocery,0,High School Degree,Bronze,Manual,Y
+Tacoma,M,F,2,40000,34,Deluxe Supermarket,0,High School Degree,Bronze,Manual,Y
+Seattle,S,M,0,40000,50,Supermarket,0,High School Degree,Bronze,Manual,N
+Ballard,M,M,0,40000,54,No Store,0,Partial High School,Bronze,Manual,N
+Spokane,M,M,3,120000,29,Supermarket,1,Bachelors Degree,Golden,Professional,Y
+Burien,M,M,3,40000,49,No Store,0,High School Degree,Golden,Manual,Y
+Edmonds,M,F,0,80000,80,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Issaquah,M,F,2,20000,55,No Store,0,Partial High School,Golden,Skilled Manual,Y
+Everett,M,M,0,40000,43,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Olympia,S,F,0,100000,84,No Store,0,Partial High School,Bronze,Management,Y
+Edmonds,S,M,0,40000,57,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Walla Walla,M,F,2,60000,76,Small Grocery,0,High School Degree,Bronze,Manual,N
+Walla Walla,S,M,0,140000,35,Small Grocery,0,High School Degree,Bronze,Professional,Y
+Olympia,M,F,2,60000,51,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Everett,M,F,2,40000,78,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Redmond,S,F,0,40000,32,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Anacortes,M,M,1,150000,26,No Store,0,Bachelors Degree,Golden,Professional,Y
+Marysville,M,M,2,60000,23,No Store,0,Bachelors Degree,Bronze,Management,Y
+Olympia,S,M,0,140000,69,No Store,0,High School Degree,Bronze,Professional,Y
+Edmonds,M,F,3,80000,36,No Store,0,Bachelors Degree,Golden,Professional,N
+Issaquah,S,M,0,140000,35,No Store,0,High School Degree,Bronze,Professional,Y
+Bellingham,M,M,0,80000,25,Small Grocery,0,Graduate Degree,Bronze,Professional,N
+Walla Walla,S,M,0,40000,79,Small Grocery,0,High School Degree,Bronze,Manual,Y
+Port Orchard,S,M,0,20000,70,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Spokane,M,M,2,80000,69,Supermarket,1,Bachelors Degree,Golden,Professional,Y
+Lynnwood,S,F,0,40000,55,No Store,0,High School Degree,Bronze,Manual,N
+Bremerton,M,M,3,20000,30,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Kirkland,M,M,2,150000,35,No Store,0,High School Degree,Golden,Professional,Y
+Ballard,M,M,4,40000,30,No Store,0,Partial High School,Silver,Manual,Y
+Burien,M,M,2,40000,68,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Everett,M,M,1,60000,38,No Store,0,Bachelors Degree,Normal,Professional,N
+Puyallup,S,M,0,100000,72,No Store,0,Graduate Degree,Bronze,Professional,Y
+Lynnwood,S,M,0,80000,42,No Store,0,Bachelors Degree,Bronze,Professional,N
+Kirkland,M,F,1,20000,50,No Store,0,Partial High School,Normal,Manual,Y
+Puyallup,M,F,5,20000,37,No Store,0,Partial High School,Normal,Manual,N
+Redmond,M,M,5,40000,53,No Store,0,High School Degree,Golden,Manual,N
+Burien,S,F,0,20000,25,No Store,0,Bachelors Degree,Silver,Professional,Y
+Edmonds,S,M,0,40000,22,No Store,0,High School Degree,Golden,Manual,N
+Yakima,S,M,0,40000,74,Mid-Size Grocery,0,Partial High School,Bronze,Manual,N
+Renton,M,M,1,20000,47,No Store,0,Partial High School,Normal,Manual,Y
+Bellingham,S,M,0,40000,43,Small Grocery,0,High School Degree,Bronze,Manual,N
+Edmonds,M,F,0,60000,51,No Store,0,Bachelors Degree,Bronze,Professional,N
+Spokane,M,F,3,20000,23,Supermarket,1,Partial High School,Normal,Skilled Manual,Y
+Sedro Woolley,S,F,0,80000,73,No Store,0,Bachelors Degree,Bronze,Professional,N
+Ballard,S,M,0,60000,59,No Store,0,Partial High School,Bronze,Skilled Manual,N
+Olympia,S,F,0,40000,83,No Store,0,High School Degree,Bronze,Manual,N
+Lynnwood,S,M,0,20000,45,No Store,0,Partial High School,Normal,Manual,Y
+Everett,S,M,0,60000,33,No Store,0,Bachelors Degree,Bronze,Professional,N
+Burien,M,M,1,40000,42,No Store,0,Partial College,Bronze,Manual,N
+Ballard,M,M,1,60000,79,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Sedro Woolley,S,F,0,20000,79,No Store,0,Bachelors Degree,Normal,Professional,N
+Spokane,S,F,0,40000,24,Supermarket,1,Partial College,Normal,Manual,N
+Olympia,M,F,3,150000,44,No Store,1,Partial College,Golden,Professional,Y
+Marysville,S,F,0,80000,22,No Store,0,Bachelors Degree,Bronze,Professional,N
+Renton,M,M,1,80000,86,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Anacortes,M,M,3,20000,74,No Store,0,Partial High School,Normal,Skilled Manual,N
+Port Orchard,M,M,1,40000,66,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Kirkland,S,F,0,40000,71,No Store,0,Bachelors Degree,Bronze,Management,N
+Ballard,M,M,1,20000,60,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Kirkland,S,F,0,80000,58,No Store,0,Bachelors Degree,Bronze,Professional,N
+Spokane,M,F,1,40000,67,Supermarket,1,High School Degree,Bronze,Skilled Manual,N
+Yakima,M,F,0,100000,77,Mid-Size Grocery,0,High School Degree,Bronze,Management,Y
+Port Orchard,M,F,1,20000,27,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Puyallup,S,M,0,120000,32,No Store,0,Bachelors Degree,Bronze,Management,Y
+Olympia,M,F,1,120000,59,No Store,0,High School Degree,Bronze,Professional,Y
+Spokane,S,F,0,100000,64,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Seattle,M,F,3,100000,31,Supermarket,0,Graduate Degree,Golden,Management,Y
+Redmond,S,M,0,140000,21,No Store,0,Graduate Degree,Bronze,Professional,Y
+Edmonds,M,M,5,140000,52,No Store,0,High School Degree,Golden,Management,Y
+Puyallup,M,F,3,20000,24,No Store,0,Partial High School,Bronze,Manual,Y
+Lynnwood,M,F,1,60000,62,No Store,0,High School Degree,Bronze,Manual,Y
+Issaquah,S,F,0,120000,83,No Store,0,High School Degree,Normal,Management,Y
+Ballard,M,M,1,100000,75,No Store,0,High School Degree,Bronze,Management,Y
+Marysville,S,M,0,20000,27,No Store,0,Partial High School,Normal,Skilled Manual,N
+Marysville,M,M,3,20000,63,No Store,0,Partial High School,Normal,Manual,Y
+Walla Walla,M,F,2,40000,78,Small Grocery,0,Partial College,Bronze,Professional,Y
+Puyallup,M,M,1,40000,63,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Anacortes,S,F,0,40000,57,No Store,0,High School Degree,Bronze,Manual,Y
+Everett,M,M,5,20000,61,No Store,0,Partial High School,Golden,Manual,Y
+Port Orchard,S,M,0,20000,59,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Redmond,S,M,0,40000,68,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Yakima,S,M,0,40000,87,Mid-Size Grocery,1,High School Degree,Bronze,Manual,N
+Kirkland,M,F,5,150000,52,No Store,0,Bachelors Degree,Golden,Management,Y
+Yakima,S,M,0,60000,56,Mid-Size Grocery,0,Bachelors Degree,Bronze,Management,N
+Bellingham,S,M,0,20000,20,Small Grocery,0,Partial High School,Normal,Skilled Manual,N
+Issaquah,S,M,0,80000,33,No Store,0,Partial High School,Bronze,Professional,N
+Burien,S,F,0,40000,70,No Store,0,Bachelors Degree,Bronze,Management,N
+Redmond,M,F,1,20000,37,No Store,0,Partial High School,Normal,Manual,Y
+Redmond,M,F,2,60000,50,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Bremerton,M,M,1,150000,62,Supermarket,0,High School Degree,Golden,Professional,Y
+Everett,M,F,0,80000,55,No Store,0,Bachelors Degree,Bronze,Management,Y
+Walla Walla,S,F,0,40000,62,Small Grocery,0,High School Degree,Bronze,Manual,Y
+Spokane,M,F,3,40000,31,Supermarket,1,High School Degree,Golden,Skilled Manual,Y
+Burien,M,M,0,20000,29,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Olympia,M,M,4,60000,53,No Store,0,Bachelors Degree,Golden,Management,Y
+Redmond,S,M,0,20000,48,No Store,0,Partial High School,Normal,Manual,N
+Renton,S,F,0,40000,83,No Store,0,High School Degree,Silver,Manual,N
+Puyallup,M,F,0,40000,23,No Store,0,High School Degree,Bronze,Manual,Y
+Yakima,S,M,0,60000,27,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,N
+Tacoma,M,F,2,80000,85,Deluxe Supermarket,0,High School Degree,Bronze,Professional,Y
+Tacoma,S,F,0,40000,28,Deluxe Supermarket,0,High School Degree,Bronze,Manual,N
+Marysville,M,M,3,40000,37,No Store,0,High School Degree,Golden,Manual,Y
+Walla Walla,S,M,0,40000,51,Small Grocery,0,Partial High School,Bronze,Skilled Manual,N
+Renton,S,F,0,60000,25,No Store,0,Graduate Degree,Bronze,Management,Y
+Redmond,S,M,0,20000,46,No Store,0,Partial High School,Normal,Manual,Y
+Anacortes,M,F,1,20000,72,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Sedro Woolley,S,M,0,60000,51,No Store,0,Partial College,Bronze,Manual,Y
+Bremerton,M,F,0,20000,63,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,M,F,2,40000,67,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Yakima,S,M,0,150000,45,Mid-Size Grocery,0,Bachelors Degree,Silver,Professional,Y
+Bremerton,M,M,1,40000,78,Supermarket,0,Partial High School,Bronze,Manual,Y
+Walla Walla,M,F,0,120000,30,Small Grocery,0,Partial High School,Silver,Professional,Y
+Port Orchard,S,M,0,140000,65,No Store,0,High School Degree,Bronze,Professional,Y
+Burien,M,M,2,140000,76,No Store,0,High School Degree,Bronze,Management,Y
+Bremerton,S,F,0,20000,21,Supermarket,0,Partial High School,Normal,Manual,Y
+Everett,M,F,2,140000,28,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Anacortes,S,F,0,150000,43,No Store,0,Partial High School,Silver,Management,Y
+Seattle,S,F,0,60000,29,Supermarket,0,High School Degree,Normal,Skilled Manual,N
+Bellingham,S,M,0,80000,70,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Anacortes,S,M,0,60000,76,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Everett,M,F,1,20000,76,No Store,0,Partial High School,Normal,Manual,Y
+Bellingham,S,F,0,80000,47,Small Grocery,0,Graduate Degree,Bronze,Management,Y
+Bremerton,M,M,0,20000,70,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Issaquah,M,F,1,40000,46,No Store,0,Partial College,Bronze,Manual,Y
+Spokane,S,M,0,20000,29,Supermarket,1,Partial High School,Normal,Manual,N
+Lynnwood,M,F,1,100000,31,No Store,0,Partial High School,Bronze,Professional,Y
+Ballard,S,M,0,80000,64,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Renton,S,M,0,20000,75,No Store,0,Bachelors Degree,Normal,Professional,N
+Olympia,M,M,2,40000,58,No Store,0,Partial College,Bronze,Clerical,N
+Issaquah,S,M,0,20000,46,No Store,0,Partial High School,Silver,Skilled Manual,Y
+Tacoma,S,M,0,80000,44,Deluxe Supermarket,0,Bachelors Degree,Golden,Professional,N
+Olympia,M,F,2,60000,56,No Store,0,Bachelors Degree,Bronze,Professional,N
+Bellingham,S,F,0,100000,46,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Redmond,M,M,2,40000,25,No Store,0,High School Degree,Silver,Skilled Manual,Y
+Puyallup,S,F,0,40000,38,No Store,0,High School Degree,Bronze,Manual,N
+Marysville,S,M,0,20000,81,No Store,0,Partial High School,Normal,Manual,N
+Ballard,M,F,1,40000,67,No Store,0,Partial College,Bronze,Professional,Y
+Seattle,M,M,1,140000,75,Supermarket,0,High School Degree,Bronze,Management,Y
+Bremerton,M,M,1,40000,64,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Marysville,M,M,1,60000,60,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Tacoma,S,F,0,120000,26,Deluxe Supermarket,0,High School Degree,Bronze,Professional,N
+Sedro Woolley,M,M,4,60000,21,No Store,0,Bachelors Degree,Golden,Professional,Y
+Puyallup,S,F,0,60000,67,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Lynnwood,M,F,4,20000,50,No Store,0,Partial High School,Silver,Skilled Manual,Y
+Puyallup,M,F,5,60000,39,No Store,0,Bachelors Degree,Golden,Professional,Y
+Edmonds,M,M,1,40000,22,No Store,0,Partial High School,Normal,Skilled Manual,N
+Port Orchard,S,F,0,60000,85,No Store,0,Bachelors Degree,Bronze,Management,N
+Everett,M,M,2,40000,71,No Store,0,Partial College,Bronze,Skilled Manual,N
+Burien,M,M,5,40000,46,No Store,0,High School Degree,Bronze,Manual,Y
+Kirkland,S,F,0,140000,21,No Store,0,High School Degree,Bronze,Professional,Y
+Tacoma,M,M,2,80000,46,Deluxe Supermarket,0,Partial College,Bronze,Management,Y
+Sedro Woolley,M,M,0,40000,62,No Store,0,High School Degree,Normal,Skilled Manual,N
+Renton,S,F,0,60000,50,No Store,0,Bachelors Degree,Bronze,Management,Y
+Yakima,S,F,0,150000,26,Mid-Size Grocery,0,Graduate Degree,Silver,Professional,Y
+Bellingham,S,F,0,40000,22,Small Grocery,0,Partial College,Bronze,Manual,N
+Walla Walla,M,F,0,60000,54,Small Grocery,0,High School Degree,Bronze,Manual,Y
+Ballard,S,M,0,60000,20,No Store,0,Bachelors Degree,Bronze,Management,N
+Yakima,S,M,0,20000,67,Mid-Size Grocery,0,Partial High School,Bronze,Skilled Manual,N
+Marysville,M,F,4,60000,50,No Store,0,Bachelors Degree,Golden,Management,Y
+Spokane,S,M,0,40000,40,Supermarket,1,Partial High School,Bronze,Manual,N
+Bremerton,M,M,1,20000,75,Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Redmond,M,M,1,80000,88,No Store,0,Partial High School,Bronze,Professional,N
+Puyallup,S,F,0,150000,55,No Store,0,Graduate Degree,Silver,Professional,Y
+Puyallup,M,F,2,140000,62,No Store,0,High School Degree,Normal,Professional,Y
+Redmond,M,F,2,150000,45,No Store,0,Bachelors Degree,Golden,Management,N
+Issaquah,M,M,1,60000,49,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Burien,M,F,2,60000,63,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Kirkland,M,F,2,20000,47,No Store,0,Partial High School,Normal,Manual,Y
+Edmonds,M,M,1,60000,32,No Store,0,Bachelors Degree,Bronze,Management,Y
+Bremerton,S,F,0,40000,77,Supermarket,0,High School Degree,Bronze,Manual,N
+Bellingham,S,F,0,60000,37,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Edmonds,M,F,0,40000,71,No Store,0,Partial College,Bronze,Clerical,Y
+Seattle,S,M,0,140000,63,Supermarket,0,High School Degree,Bronze,Management,Y
+Everett,M,M,0,40000,87,No Store,0,High School Degree,Bronze,Manual,Y
+Ballard,S,M,0,60000,34,No Store,0,Bachelors Degree,Golden,Management,N
+Sedro Woolley,S,M,0,60000,40,No Store,0,Bachelors Degree,Bronze,Management,Y
+Seattle,S,F,0,20000,32,Supermarket,0,Partial High School,Normal,Manual,Y
+Everett,S,M,0,60000,52,No Store,0,Bachelors Degree,Bronze,Professional,N
+Renton,S,M,0,20000,83,No Store,0,Partial High School,Normal,Manual,Y
+Bellingham,M,F,5,100000,79,Small Grocery,0,Graduate Degree,Golden,Professional,N
+Seattle,M,F,4,60000,20,Supermarket,0,Bachelors Degree,Golden,Management,Y
+Bellingham,S,M,0,40000,57,Small Grocery,0,High School Degree,Silver,Manual,N
+Port Orchard,S,F,0,20000,26,No Store,1,Partial High School,Silver,Skilled Manual,N
+Tacoma,M,M,0,20000,26,Deluxe Supermarket,0,Bachelors Degree,Normal,Professional,Y
+Bremerton,S,F,0,40000,48,Supermarket,1,High School Degree,Bronze,Manual,N
+Issaquah,S,M,0,40000,77,No Store,0,Partial High School,Normal,Skilled Manual,N
+Tacoma,M,F,1,20000,64,Deluxe Supermarket,0,Partial High School,Silver,Skilled Manual,Y
+Ballard,S,F,0,120000,24,No Store,0,Partial College,Bronze,Professional,Y
+Bellingham,S,F,0,40000,86,Small Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Bremerton,M,M,2,40000,79,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Marysville,S,M,0,60000,24,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Lynnwood,S,F,0,40000,71,No Store,0,Partial College,Silver,Professional,Y
+Lynnwood,M,F,3,60000,83,No Store,0,Bachelors Degree,Golden,Professional,Y
+Marysville,M,M,4,60000,79,No Store,0,Bachelors Degree,Golden,Professional,Y
+Spokane,M,M,4,40000,87,Supermarket,1,High School Degree,Golden,Skilled Manual,Y
+Walla Walla,M,F,0,140000,62,Small Grocery,0,Partial High School,Bronze,Management,Y
+Ballard,M,M,0,80000,53,No Store,0,Bachelors Degree,Bronze,Management,Y
+Burien,S,F,0,120000,63,No Store,0,Partial High School,Silver,Professional,Y
+Seattle,M,F,0,40000,38,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Everett,M,M,2,60000,57,No Store,0,Bachelors Degree,Silver,Professional,Y
+Redmond,S,F,0,80000,40,No Store,0,Bachelors Degree,Bronze,Professional,N
+Lynnwood,S,M,0,20000,76,No Store,0,Partial High School,Normal,Manual,Y
+Yakima,M,F,1,140000,50,Mid-Size Grocery,0,Graduate Degree,Bronze,Management,Y
+Renton,S,M,0,150000,66,No Store,0,Partial High School,Silver,Professional,Y
+Redmond,M,F,1,100000,51,No Store,0,Bachelors Degree,Bronze,Management,Y
+Port Orchard,M,F,2,80000,66,No Store,0,Bachelors Degree,Silver,Professional,Y
+Marysville,S,F,0,60000,36,No Store,0,Partial College,Bronze,Skilled Manual,N
+Tacoma,S,M,0,100000,67,Deluxe Supermarket,1,Graduate Degree,Bronze,Management,Y
+Puyallup,S,M,0,20000,32,No Store,0,Partial High School,Normal,Manual,N
+Olympia,M,M,1,40000,62,No Store,0,High School Degree,Normal,Manual,Y
+Burien,S,F,0,60000,68,No Store,0,Bachelors Degree,Bronze,Professional,N
+Ballard,S,F,0,80000,83,No Store,0,Graduate Degree,Normal,Professional,N
+Sedro Woolley,M,M,0,20000,87,No Store,0,Partial High School,Normal,Manual,Y
+Seattle,M,F,4,100000,42,Supermarket,0,High School Degree,Golden,Professional,Y
+Bellingham,M,F,0,60000,36,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Issaquah,M,F,1,40000,72,No Store,0,High School Degree,Bronze,Manual,N
+Lynnwood,S,F,0,40000,23,No Store,0,Partial College,Bronze,Clerical,Y
+Edmonds,M,F,1,150000,61,No Store,0,High School Degree,Golden,Management,Y
+Puyallup,M,F,2,20000,65,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Anacortes,M,F,0,80000,53,No Store,0,Bachelors Degree,Silver,Management,Y
+Everett,S,F,0,80000,83,No Store,0,Bachelors Degree,Bronze,Professional,N
+Port Orchard,S,M,0,20000,72,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Lynnwood,S,F,0,60000,27,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Anacortes,S,M,0,40000,49,No Store,0,Partial College,Bronze,Clerical,N
+Kirkland,M,F,0,40000,41,No Store,0,High School Degree,Bronze,Manual,Y
+Edmonds,M,F,2,60000,28,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Walla Walla,M,M,0,100000,18,Small Grocery,0,Partial High School,Bronze,Management,N
+Everett,M,M,2,40000,75,No Store,0,Partial College,Bronze,Management,N
+Redmond,S,M,0,40000,80,No Store,0,Partial College,Bronze,Professional,Y
+Redmond,M,F,0,20000,51,No Store,0,Partial High School,Normal,Manual,Y
+Puyallup,S,M,0,40000,30,No Store,0,Partial High School,Bronze,Manual,N
+Walla Walla,S,M,0,60000,73,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Ballard,M,M,2,40000,29,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Ballard,M,F,1,60000,68,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Port Orchard,S,F,0,80000,86,No Store,0,High School Degree,Golden,Management,Y
+Everett,M,F,4,40000,33,No Store,0,High School Degree,Golden,Manual,Y
+Puyallup,M,F,1,40000,49,No Store,0,High School Degree,Bronze,Manual,N
+Anacortes,S,F,0,80000,62,No Store,0,Graduate Degree,Bronze,Professional,Y
+Walla Walla,M,F,1,20000,46,Small Grocery,0,Partial High School,Normal,Manual,Y
+Puyallup,S,F,0,80000,88,No Store,0,Partial High School,Bronze,Professional,Y
+Burien,S,M,0,40000,59,No Store,0,Bachelors Degree,Bronze,Professional,N
+Edmonds,M,M,3,40000,20,No Store,0,High School Degree,Golden,Manual,N
+Olympia,M,F,2,40000,24,No Store,0,Partial College,Bronze,Professional,Y
+Kirkland,M,F,2,40000,50,No Store,0,High School Degree,Silver,Manual,Y
+Edmonds,M,F,1,20000,65,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Issaquah,M,F,0,40000,75,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Everett,M,M,5,40000,75,No Store,0,High School Degree,Golden,Manual,Y
+Walla Walla,S,M,0,100000,20,Small Grocery,0,Partial College,Bronze,Professional,Y
+Issaquah,S,M,0,60000,85,No Store,0,Bachelors Degree,Bronze,Professional,N
+Redmond,M,F,1,150000,70,No Store,0,Partial College,Silver,Professional,Y
+Tacoma,M,M,0,60000,76,Deluxe Supermarket,0,Bachelors Degree,Bronze,Management,N
+Renton,S,F,0,40000,76,No Store,0,Partial College,Bronze,Management,N
+Ballard,M,M,4,120000,32,No Store,0,Bachelors Degree,Silver,Professional,N
+Sedro Woolley,M,M,0,60000,64,No Store,0,Bachelors Degree,Bronze,Professional,N
+Anacortes,M,F,0,60000,65,No Store,0,Bachelors Degree,Golden,Management,Y
+Puyallup,M,F,3,60000,73,No Store,0,High School Degree,Golden,Manual,Y
+Tacoma,S,M,0,80000,76,Deluxe Supermarket,0,Bachelors Degree,Normal,Professional,N
+Puyallup,M,M,3,40000,57,No Store,0,High School Degree,Bronze,Manual,Y
+Port Orchard,S,F,0,80000,74,No Store,0,Graduate Degree,Silver,Professional,Y
+Yakima,S,M,0,140000,83,Mid-Size Grocery,0,Graduate Degree,Bronze,Professional,Y
+Ballard,S,M,0,60000,37,No Store,0,Bachelors Degree,Bronze,Management,N
+Walla Walla,S,F,0,80000,33,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Kirkland,M,F,1,20000,43,No Store,0,Partial High School,Silver,Manual,Y
+Lynnwood,S,M,0,60000,85,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,S,M,0,40000,49,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Walla Walla,S,F,0,40000,36,Small Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Renton,S,F,0,80000,70,No Store,0,Graduate Degree,Bronze,Professional,N
+Puyallup,M,F,0,20000,29,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Olympia,M,M,4,40000,42,No Store,1,High School Degree,Golden,Manual,Y
+Issaquah,M,M,5,100000,37,No Store,0,High School Degree,Golden,Professional,Y
+Puyallup,M,M,0,80000,33,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Redmond,M,F,0,20000,61,No Store,0,Partial High School,Bronze,Manual,Y
+Spokane,M,F,2,60000,58,Supermarket,1,Bachelors Degree,Bronze,Management,N
+Bellingham,M,M,3,20000,36,Small Grocery,0,Partial High School,Normal,Manual,Y
+Olympia,M,F,3,20000,19,No Store,1,Partial High School,Normal,Skilled Manual,N
+Olympia,M,M,0,140000,23,No Store,0,High School Degree,Bronze,Management,Y
+Walla Walla,S,F,0,60000,60,Small Grocery,0,Partial High School,Bronze,Skilled Manual,Y
+Tacoma,S,M,0,20000,28,Deluxe Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Edmonds,S,M,0,40000,73,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Redmond,S,F,0,60000,31,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,S,F,0,100000,60,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Kirkland,S,M,0,140000,57,No Store,0,Graduate Degree,Bronze,Professional,Y
+Olympia,S,F,0,20000,44,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Yakima,S,M,0,100000,87,Mid-Size Grocery,0,Graduate Degree,Bronze,Professional,Y
+Everett,S,M,0,60000,83,No Store,0,Bachelors Degree,Bronze,Management,Y
+Burien,M,M,2,40000,23,No Store,0,High School Degree,Normal,Manual,Y
+Everett,S,M,0,80000,76,No Store,0,Bachelors Degree,Bronze,Management,N
+Tacoma,M,M,3,20000,49,Deluxe Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Spokane,S,M,0,80000,80,Supermarket,1,Graduate Degree,Bronze,Professional,N
+Marysville,S,F,0,60000,29,No Store,0,Bachelors Degree,Bronze,Management,N
+Puyallup,S,F,0,60000,40,No Store,0,High School Degree,Normal,Manual,N
+Bellingham,S,F,0,80000,63,Small Grocery,0,Bachelors Degree,Silver,Professional,Y
+Bremerton,M,F,1,60000,32,Supermarket,1,Bachelors Degree,Bronze,Management,N
+Kirkland,M,M,0,20000,77,No Store,0,Partial High School,Normal,Manual,Y
+Everett,M,M,2,60000,74,No Store,0,Partial High School,Silver,Skilled Manual,Y
+Port Orchard,M,M,3,60000,54,No Store,0,High School Degree,Golden,Manual,Y
+Everett,S,M,0,60000,33,No Store,0,Bachelors Degree,Bronze,Management,N
+Redmond,S,M,0,80000,20,No Store,0,Bachelors Degree,Bronze,Professional,N
+Tacoma,M,M,0,20000,21,Deluxe Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Walla Walla,M,F,1,40000,18,Small Grocery,0,Partial College,Normal,Clerical,N
+Walla Walla,S,F,0,40000,63,Small Grocery,0,Partial College,Bronze,Skilled Manual,N
+Burien,M,F,1,80000,55,No Store,0,Bachelors Degree,Bronze,Professional,N
+Spokane,M,M,1,20000,78,Supermarket,1,Partial High School,Normal,Manual,Y
+Olympia,M,F,1,80000,32,No Store,0,High School Degree,Bronze,Professional,N
+Redmond,S,M,0,60000,26,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Puyallup,S,F,0,20000,53,No Store,0,Partial High School,Normal,Skilled Manual,N
+Seattle,M,F,2,60000,63,Supermarket,0,High School Degree,Bronze,Manual,N
+Anacortes,S,M,0,40000,28,No Store,0,High School Degree,Bronze,Manual,Y
+Spokane,M,M,4,140000,53,Supermarket,1,Bachelors Degree,Silver,Professional,N
+Tacoma,S,F,0,80000,38,Deluxe Supermarket,0,Partial High School,Bronze,Professional,Y
+Renton,S,M,0,40000,27,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Yakima,M,M,0,40000,47,Mid-Size Grocery,0,High School Degree,Bronze,Manual,N
+Seattle,M,F,5,150000,46,Supermarket,0,High School Degree,Golden,Management,N
+Olympia,M,M,0,20000,86,No Store,1,Partial High School,Normal,Skilled Manual,Y
+Puyallup,S,F,0,40000,54,No Store,0,High School Degree,Bronze,Manual,Y
+Bremerton,S,M,0,60000,69,Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Marysville,M,F,1,40000,25,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Burien,M,F,1,60000,67,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Ballard,S,F,0,60000,49,No Store,0,Bachelors Degree,Bronze,Management,Y
+Sedro Woolley,S,M,0,150000,49,No Store,0,Bachelors Degree,Silver,Professional,Y
+Lynnwood,M,F,3,60000,51,No Store,0,Bachelors Degree,Golden,Management,Y
+Tacoma,S,M,0,40000,26,Deluxe Supermarket,0,Partial College,Bronze,Professional,N
+Burien,M,M,2,80000,80,No Store,0,Bachelors Degree,Silver,Professional,Y
+Spokane,M,F,1,80000,40,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Sedro Woolley,S,M,0,120000,52,No Store,0,Partial High School,Bronze,Professional,Y
+Edmonds,M,F,2,60000,50,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Burien,M,F,1,140000,21,No Store,0,High School Degree,Bronze,Professional,Y
+Tacoma,M,F,1,20000,72,Deluxe Supermarket,0,Partial High School,Normal,Manual,N
+Anacortes,M,M,1,40000,19,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Kirkland,S,M,0,20000,81,No Store,0,Partial High School,Golden,Manual,N
+Kirkland,S,M,0,40000,24,No Store,0,Partial College,Bronze,Manual,Y
+Port Orchard,S,M,0,20000,77,No Store,0,Partial High School,Golden,Skilled Manual,N
+Sedro Woolley,S,M,0,40000,50,No Store,0,High School Degree,Silver,Manual,N
+Yakima,M,F,4,100000,73,Mid-Size Grocery,0,High School Degree,Golden,Professional,Y
+Yakima,M,F,2,140000,42,Mid-Size Grocery,0,High School Degree,Bronze,Professional,Y
+Lynnwood,M,F,1,40000,40,No Store,0,High School Degree,Bronze,Manual,Y
+Issaquah,S,M,0,40000,45,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Walla Walla,S,F,0,60000,63,Small Grocery,0,Partial College,Bronze,Management,N
+Everett,S,F,0,20000,71,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Redmond,M,F,2,120000,60,No Store,0,High School Degree,Bronze,Professional,N
+Walla Walla,M,M,0,40000,50,Small Grocery,0,High School Degree,Golden,Manual,N
+Anacortes,M,M,3,60000,77,No Store,0,Partial College,Golden,Clerical,Y
+Puyallup,M,F,0,20000,60,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Burien,S,F,0,60000,63,No Store,0,Bachelors Degree,Silver,Professional,N
+Ballard,M,F,4,80000,54,No Store,0,Graduate Degree,Golden,Management,N
+Bremerton,S,F,0,60000,52,Supermarket,1,Bachelors Degree,Bronze,Professional,N
+Port Orchard,S,M,0,60000,67,No Store,0,Bachelors Degree,Bronze,Professional,N
+Edmonds,S,M,0,40000,44,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Edmonds,S,M,0,60000,55,No Store,0,Bachelors Degree,Golden,Management,Y
+Yakima,M,M,3,20000,70,Mid-Size Grocery,0,Partial High School,Normal,Manual,Y
+Yakima,S,F,0,40000,36,Mid-Size Grocery,0,High School Degree,Silver,Manual,N
+Renton,S,F,0,40000,66,No Store,0,High School Degree,Bronze,Manual,Y
+Burien,M,M,2,20000,74,No Store,0,Partial High School,Normal,Manual,Y
+Tacoma,M,F,1,60000,83,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Bremerton,M,F,1,60000,56,Supermarket,1,Partial High School,Bronze,Manual,N
+Bellingham,S,F,0,20000,76,Small Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,S,M,0,20000,87,No Store,1,Partial High School,Normal,Skilled Manual,Y
+Yakima,S,F,0,40000,53,Mid-Size Grocery,0,Partial College,Bronze,Skilled Manual,N
+Marysville,S,M,0,140000,74,No Store,0,Graduate Degree,Golden,Professional,Y
+Yakima,M,M,0,80000,50,Mid-Size Grocery,1,Bachelors Degree,Bronze,Professional,Y
+Walla Walla,S,M,0,60000,19,Small Grocery,0,Bachelors Degree,Golden,Management,N
+Walla Walla,S,F,0,60000,87,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Puyallup,M,M,0,80000,26,No Store,0,Graduate Degree,Bronze,Professional,Y
+Lynnwood,M,F,0,20000,35,No Store,0,Partial High School,Normal,Manual,Y
+Kirkland,M,M,4,140000,34,No Store,0,High School Degree,Golden,Professional,Y
+Puyallup,S,M,0,140000,48,No Store,1,High School Degree,Bronze,Professional,N
+Issaquah,M,M,0,100000,54,No Store,0,High School Degree,Bronze,Professional,Y
+Redmond,S,M,0,20000,33,No Store,0,Partial High School,Normal,Manual,N
+Ballard,M,F,4,20000,46,No Store,0,Partial High School,Normal,Manual,Y
+Seattle,S,M,0,40000,68,Supermarket,0,Partial High School,Bronze,Manual,N
+Seattle,S,F,0,100000,36,Supermarket,0,Graduate Degree,Bronze,Management,Y
+Puyallup,S,F,0,40000,59,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Burien,M,F,4,80000,64,No Store,0,Graduate Degree,Bronze,Professional,Y
+Anacortes,M,F,2,80000,66,No Store,0,High School Degree,Bronze,Professional,Y
+Tacoma,M,M,3,40000,84,Deluxe Supermarket,1,High School Degree,Golden,Manual,N
+Anacortes,M,M,3,20000,71,No Store,0,Bachelors Degree,Normal,Professional,N
+Puyallup,M,F,0,80000,27,No Store,0,Bachelors Degree,Silver,Management,Y
+Edmonds,M,M,1,40000,28,No Store,0,High School Degree,Bronze,Manual,N
+Bremerton,M,M,0,20000,85,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,M,F,2,140000,33,No Store,0,Bachelors Degree,Silver,Professional,Y
+Sedro Woolley,S,F,0,40000,43,No Store,0,Partial High School,Bronze,Manual,Y
+Kirkland,S,M,0,40000,61,No Store,0,Partial High School,Bronze,Manual,N
+Lynnwood,M,F,0,20000,32,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Burien,S,M,0,80000,32,No Store,0,Partial High School,Bronze,Professional,Y
+Everett,M,M,1,20000,32,No Store,0,Partial High School,Normal,Manual,N
+Edmonds,M,M,1,140000,35,No Store,0,High School Degree,Bronze,Professional,Y
+Yakima,S,F,0,40000,23,Mid-Size Grocery,0,Partial High School,Bronze,Skilled Manual,Y
+Yakima,S,M,0,140000,24,Mid-Size Grocery,0,Graduate Degree,Golden,Professional,Y
+Bremerton,S,M,0,60000,54,Supermarket,1,High School Degree,Normal,Skilled Manual,Y
+Walla Walla,M,M,4,20000,80,Small Grocery,0,Partial High School,Normal,Manual,Y
+Port Orchard,M,M,2,150000,77,No Store,0,Graduate Degree,Golden,Professional,Y
+Puyallup,M,M,2,20000,38,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Bremerton,S,F,0,60000,64,Supermarket,0,Bachelors Degree,Bronze,Management,N
+Walla Walla,S,F,0,20000,30,Small Grocery,0,Partial High School,Normal,Skilled Manual,N
+Everett,M,F,3,60000,42,No Store,0,Partial College,Golden,Manual,Y
+Kirkland,S,F,0,60000,69,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Puyallup,M,M,3,100000,44,No Store,0,Bachelors Degree,Golden,Professional,N
+Seattle,M,F,1,20000,54,Supermarket,0,Partial High School,Normal,Skilled Manual,Y
+Issaquah,M,M,0,20000,82,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Olympia,M,F,0,40000,29,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Burien,S,M,0,20000,32,No Store,0,Partial High School,Normal,Manual,N
+Yakima,M,M,0,60000,47,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Renton,M,F,2,20000,70,No Store,0,Partial High School,Normal,Manual,Y
+Port Orchard,S,M,0,20000,82,No Store,0,Partial High School,Normal,Skilled Manual,N
+Spokane,S,F,0,40000,24,Supermarket,1,High School Degree,Golden,Skilled Manual,Y
+Kirkland,S,F,0,120000,60,No Store,0,Partial High School,Normal,Professional,Y
+Anacortes,S,M,0,140000,48,No Store,0,Bachelors Degree,Normal,Professional,N
+Kirkland,S,M,0,20000,66,No Store,0,Partial High School,Normal,Manual,N
+Yakima,M,M,1,40000,49,Mid-Size Grocery,0,Partial High School,Bronze,Skilled Manual,N
+Puyallup,M,F,3,60000,64,No Store,0,Partial College,Golden,Professional,Y
+Issaquah,S,M,0,120000,51,No Store,0,High School Degree,Bronze,Management,Y
+Edmonds,S,F,0,120000,33,No Store,0,Partial High School,Bronze,Professional,Y
+Bremerton,M,F,0,20000,84,Supermarket,0,Partial High School,Normal,Manual,Y
+Kirkland,M,F,0,60000,59,No Store,0,Bachelors Degree,Bronze,Management,Y
+Tacoma,S,F,0,40000,46,Deluxe Supermarket,0,Partial High School,Golden,Skilled Manual,Y
+Port Orchard,S,M,0,100000,86,No Store,1,Bachelors Degree,Normal,Professional,Y
+Lynnwood,S,F,0,120000,53,No Store,0,High School Degree,Golden,Professional,Y
+Yakima,M,M,3,80000,85,Mid-Size Grocery,0,High School Degree,Silver,Professional,Y
+Bellingham,M,M,0,100000,76,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Walla Walla,S,F,0,20000,75,Small Grocery,0,Partial High School,Normal,Skilled Manual,N
+Walla Walla,S,M,0,20000,23,Small Grocery,0,Partial High School,Normal,Manual,Y
+Everett,S,F,0,40000,68,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Redmond,S,F,0,40000,24,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Everett,M,F,1,40000,49,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Redmond,M,F,3,60000,47,No Store,0,Bachelors Degree,Golden,Management,Y
+Issaquah,S,F,0,20000,58,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Yakima,M,F,1,80000,40,Mid-Size Grocery,1,Bachelors Degree,Bronze,Management,Y
+Yakima,S,M,0,40000,57,Mid-Size Grocery,0,Partial College,Bronze,Professional,Y
+Renton,S,F,0,40000,74,No Store,0,Partial College,Bronze,Management,N
+Bremerton,S,M,0,40000,64,Supermarket,0,Partial College,Bronze,Clerical,Y
+Puyallup,M,M,3,20000,86,No Store,0,Partial High School,Normal,Manual,Y
+Issaquah,S,F,0,40000,68,No Store,0,Partial High School,Bronze,Manual,N
+Puyallup,M,M,3,60000,75,No Store,0,Bachelors Degree,Silver,Management,Y
+Anacortes,S,F,0,20000,82,No Store,0,Partial High School,Normal,Skilled Manual,N
+Spokane,S,F,0,20000,75,Supermarket,1,Partial High School,Normal,Manual,N
+Sedro Woolley,M,M,0,140000,83,No Store,0,High School Degree,Bronze,Management,Y
+Olympia,S,M,0,40000,21,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Burien,S,F,0,20000,43,No Store,0,High School Degree,Normal,Manual,N
+Seattle,M,M,2,60000,62,Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Olympia,S,M,0,40000,70,No Store,0,Partial High School,Bronze,Manual,N
+Marysville,S,F,0,60000,87,No Store,0,Partial College,Silver,Clerical,N
+Everett,M,M,0,40000,21,No Store,0,Bachelors Degree,Bronze,Professional,N
+Ballard,M,M,1,40000,68,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Burien,S,M,0,40000,19,No Store,0,Partial College,Bronze,Manual,Y
+Marysville,S,F,0,60000,57,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,M,F,3,60000,20,No Store,0,Bachelors Degree,Golden,Professional,Y
+Spokane,M,F,0,40000,34,Supermarket,1,High School Degree,Bronze,Skilled Manual,Y
+Tacoma,M,M,3,60000,64,Deluxe Supermarket,0,Bachelors Degree,Normal,Management,Y
+Everett,S,F,0,40000,35,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Anacortes,S,F,0,60000,58,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Seattle,M,M,0,80000,54,Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Seattle,M,M,0,40000,45,Supermarket,0,Partial High School,Silver,Manual,N
+Tacoma,M,M,3,20000,71,Deluxe Supermarket,0,Partial High School,Bronze,Skilled Manual,Y
+Issaquah,M,M,0,40000,51,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Marysville,S,F,0,20000,69,No Store,0,Partial High School,Normal,Manual,Y
+Spokane,M,M,1,120000,38,Supermarket,1,Bachelors Degree,Bronze,Professional,Y
+Walla Walla,M,M,1,20000,51,Small Grocery,0,Partial High School,Normal,Manual,Y
+Lynnwood,M,F,0,60000,46,No Store,0,Bachelors Degree,Bronze,Management,Y
+Port Orchard,S,M,0,120000,51,No Store,0,Bachelors Degree,Golden,Professional,Y
+Tacoma,M,M,3,40000,77,Deluxe Supermarket,0,Partial College,Bronze,Management,Y
+Ballard,S,M,0,40000,30,No Store,0,High School Degree,Bronze,Manual,N
+Seattle,S,M,0,60000,52,Supermarket,0,Bachelors Degree,Bronze,Professional,N
+Seattle,S,M,0,20000,21,Supermarket,0,Partial High School,Normal,Skilled Manual,N
+Lynnwood,M,F,4,40000,39,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Lynnwood,S,F,0,20000,43,No Store,0,Partial High School,Normal,Manual,N
+Kirkland,S,M,0,20000,53,No Store,0,Partial High School,Normal,Manual,Y
+Seattle,S,F,0,40000,86,Supermarket,0,High School Degree,Bronze,Manual,Y
+Issaquah,M,F,1,40000,70,No Store,0,Partial College,Bronze,Professional,Y
+Tacoma,M,M,0,120000,62,Deluxe Supermarket,0,High School Degree,Bronze,Professional,Y
+Renton,M,F,1,40000,26,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Kirkland,S,M,0,20000,57,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Walla Walla,S,M,0,80000,34,Small Grocery,0,Bachelors Degree,Bronze,Professional,N
+Redmond,S,M,0,140000,71,No Store,0,High School Degree,Normal,Professional,Y
+Edmonds,S,M,0,80000,25,No Store,0,High School Degree,Bronze,Management,N
+Issaquah,M,F,1,120000,30,No Store,0,High School Degree,Silver,Professional,Y
+Everett,S,M,0,40000,30,No Store,0,High School Degree,Bronze,Manual,Y
+Walla Walla,S,M,0,40000,50,Small Grocery,0,High School Degree,Golden,Skilled Manual,N
+Walla Walla,M,M,0,20000,74,Small Grocery,0,Partial High School,Normal,Skilled Manual,Y
+Everett,M,F,1,40000,32,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Edmonds,M,M,0,40000,37,No Store,0,High School Degree,Bronze,Manual,Y
+Renton,M,F,4,60000,36,No Store,0,Bachelors Degree,Golden,Management,Y
+Redmond,M,M,0,40000,63,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Anacortes,M,M,2,150000,25,No Store,0,Partial High School,Golden,Management,Y
+Anacortes,S,F,0,80000,26,No Store,0,Bachelors Degree,Bronze,Professional,N
+Puyallup,S,M,0,20000,34,No Store,0,High School Degree,Normal,Manual,N
+Redmond,M,F,1,100000,23,No Store,0,High School Degree,Bronze,Professional,N
+Olympia,S,F,0,20000,31,No Store,0,Partial High School,Bronze,Skilled Manual,Y
+Kirkland,M,F,3,40000,88,No Store,0,High School Degree,Normal,Manual,Y
+Tacoma,M,M,0,140000,51,Deluxe Supermarket,0,High School Degree,Normal,Professional,Y
+Yakima,S,M,0,80000,79,Mid-Size Grocery,0,Graduate Degree,Golden,Professional,N
+Lynnwood,S,F,0,20000,22,No Store,0,Partial High School,Normal,Manual,N
+Spokane,S,F,0,80000,70,Supermarket,1,Bachelors Degree,Bronze,Management,N
+Yakima,M,F,3,20000,29,Mid-Size Grocery,0,Partial High School,Normal,Manual,Y
+Renton,M,F,0,20000,83,No Store,0,Partial High School,Normal,Manual,Y
+Port Orchard,M,F,3,60000,38,No Store,0,Bachelors Degree,Golden,Professional,Y
+Redmond,M,F,1,20000,21,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Tacoma,S,M,0,140000,87,Deluxe Supermarket,0,Partial High School,Silver,Professional,Y
+Kirkland,S,F,0,40000,25,No Store,0,Partial College,Bronze,Skilled Manual,N
+Lynnwood,M,F,0,40000,23,No Store,0,Partial High School,Silver,Skilled Manual,Y
+Puyallup,M,F,1,60000,48,No Store,0,Bachelors Degree,Bronze,Management,Y
+Ballard,S,F,0,20000,36,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,M,F,0,40000,26,No Store,0,High School Degree,Bronze,Manual,Y
+Edmonds,S,F,0,40000,83,No Store,0,Partial High School,Bronze,Manual,Y
+Puyallup,S,M,0,40000,50,No Store,0,High School Degree,Silver,Manual,Y
+Everett,S,M,0,40000,66,No Store,0,High School Degree,Silver,Skilled Manual,Y
+Redmond,S,F,0,20000,72,No Store,0,Partial High School,Normal,Manual,Y
+Marysville,M,M,2,20000,32,No Store,0,Partial High School,Normal,Manual,Y
+Kirkland,S,F,0,60000,29,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Burien,M,M,1,20000,42,No Store,0,Partial High School,Normal,Manual,N
+Ballard,M,M,1,60000,37,No Store,0,Bachelors Degree,Bronze,Professional,N
+Everett,S,F,0,40000,24,No Store,0,High School Degree,Bronze,Manual,Y
+Edmonds,M,F,0,140000,34,No Store,0,High School Degree,Bronze,Professional,Y
+Renton,M,M,3,20000,40,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Redmond,M,F,4,40000,67,No Store,0,High School Degree,Golden,Skilled Manual,N
+Anacortes,S,F,0,40000,36,No Store,0,High School Degree,Silver,Manual,N
+Burien,S,F,0,120000,26,No Store,0,Bachelors Degree,Golden,Management,N
+Spokane,M,M,5,40000,56,Supermarket,1,High School Degree,Golden,Skilled Manual,Y
+Everett,S,M,0,140000,59,No Store,0,Partial High School,Bronze,Professional,Y
+Olympia,M,M,1,120000,69,No Store,0,Graduate Degree,Bronze,Professional,N
+Bremerton,M,M,0,20000,22,Supermarket,1,Partial High School,Normal,Skilled Manual,N
+Sedro Woolley,S,M,0,80000,32,No Store,0,Bachelors Degree,Normal,Professional,N
+Yakima,M,M,3,120000,41,Mid-Size Grocery,0,High School Degree,Golden,Professional,Y
+Kirkland,S,F,0,80000,25,No Store,0,Bachelors Degree,Bronze,Professional,N
+Issaquah,M,M,3,60000,64,No Store,0,Bachelors Degree,Golden,Management,N
+Bellingham,M,M,4,150000,19,Small Grocery,0,Partial High School,Golden,Management,Y
+Marysville,S,M,0,80000,51,No Store,0,High School Degree,Bronze,Professional,Y
+Renton,S,M,0,20000,30,No Store,0,Partial High School,Normal,Manual,Y
+Ballard,M,M,3,60000,38,No Store,0,Bachelors Degree,Golden,Professional,Y
+Yakima,M,F,2,20000,37,Mid-Size Grocery,0,Partial High School,Normal,Manual,Y
+Yakima,M,M,4,80000,81,Mid-Size Grocery,0,Bachelors Degree,Golden,Professional,N
+Lynnwood,M,M,4,20000,73,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Puyallup,S,F,0,80000,22,No Store,1,Bachelors Degree,Bronze,Professional,Y
+Ballard,M,M,0,20000,87,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Seattle,S,F,0,20000,53,Supermarket,0,Partial High School,Normal,Manual,N
+Spokane,M,M,1,20000,50,Supermarket,1,Partial High School,Normal,Manual,Y
+Olympia,M,F,4,40000,29,No Store,0,Partial College,Golden,Professional,Y
+Tacoma,S,M,0,60000,23,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Edmonds,S,F,0,40000,30,No Store,0,High School Degree,Normal,Manual,N
+Tacoma,M,F,1,60000,25,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,M,F,2,40000,48,No Store,0,High School Degree,Silver,Manual,Y
+Issaquah,M,M,0,60000,35,No Store,0,Partial High School,Golden,Skilled Manual,Y
+Edmonds,S,F,0,140000,55,No Store,0,Partial High School,Bronze,Professional,Y
+Redmond,S,M,0,20000,37,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Port Orchard,S,F,0,60000,32,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,S,F,0,40000,28,No Store,0,Partial High School,Silver,Skilled Manual,N
+Edmonds,S,M,0,100000,45,No Store,0,Bachelors Degree,Bronze,Management,Y
+Issaquah,S,F,0,20000,81,No Store,0,Partial High School,Normal,Manual,Y
+Everett,M,F,2,20000,37,No Store,0,Partial High School,Silver,Manual,Y
+Spokane,M,F,1,60000,57,Supermarket,1,Partial High School,Bronze,Skilled Manual,Y
+Everett,M,M,2,40000,68,No Store,0,High School Degree,Normal,Skilled Manual,Y
+Redmond,M,F,0,20000,58,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Spokane,M,M,5,40000,47,Supermarket,1,Partial College,Normal,Professional,Y
+Bellingham,M,F,0,150000,38,Small Grocery,0,High School Degree,Silver,Management,Y
+Everett,S,M,0,20000,82,No Store,0,Partial High School,Normal,Manual,N
+Redmond,M,F,3,20000,36,No Store,0,Partial High School,Normal,Manual,Y
+Puyallup,M,M,5,40000,47,No Store,0,High School Degree,Golden,Manual,N
+Issaquah,M,M,2,40000,88,No Store,0,High School Degree,Silver,Manual,N
+Bremerton,S,M,0,20000,20,Supermarket,0,Partial High School,Bronze,Skilled Manual,N
+Bremerton,S,M,0,80000,61,Supermarket,0,High School Degree,Bronze,Management,N
+Walla Walla,S,M,0,120000,70,Small Grocery,0,Partial College,Bronze,Professional,Y
+Issaquah,S,M,0,100000,23,No Store,0,High School Degree,Golden,Professional,Y
+Ballard,S,F,0,20000,42,No Store,0,Partial High School,Normal,Skilled Manual,N
+Bremerton,M,M,0,20000,23,Supermarket,1,Partial High School,Normal,Manual,Y
+Marysville,M,M,3,80000,38,No Store,0,Graduate Degree,Silver,Professional,Y
+Yakima,M,M,0,60000,51,Mid-Size Grocery,0,Bachelors Degree,Normal,Professional,Y
+Spokane,M,M,1,20000,88,Supermarket,1,Partial High School,Normal,Manual,N
+Seattle,M,F,2,40000,41,Supermarket,0,Partial College,Bronze,Professional,Y
+Renton,M,F,1,20000,87,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Lynnwood,S,M,0,20000,21,No Store,0,Partial High School,Normal,Manual,Y
+Issaquah,M,M,2,20000,86,No Store,0,Bachelors Degree,Normal,Management,Y
+Renton,M,F,0,40000,79,No Store,0,High School Degree,Normal,Manual,Y
+Spokane,S,F,0,20000,43,Supermarket,1,Partial High School,Golden,Manual,Y
+Bellingham,M,F,2,20000,36,Small Grocery,0,Partial High School,Silver,Manual,Y
+Tacoma,M,M,1,20000,83,Deluxe Supermarket,0,Partial High School,Normal,Manual,N
+Seattle,S,M,0,80000,70,Supermarket,0,Partial High School,Bronze,Management,N
+Port Orchard,M,M,1,100000,52,No Store,0,Partial High School,Bronze,Professional,Y
+Olympia,S,F,0,140000,74,No Store,0,High School Degree,Normal,Management,Y
+Yakima,S,F,0,120000,44,Mid-Size Grocery,0,Partial High School,Silver,Management,N
+Tacoma,M,F,4,20000,52,Deluxe Supermarket,0,Partial High School,Normal,Manual,Y
+Burien,S,F,0,40000,20,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Sedro Woolley,M,F,2,40000,39,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Olympia,M,F,2,20000,21,No Store,0,Partial High School,Silver,Manual,Y
+Burien,S,M,0,150000,36,No Store,0,Bachelors Degree,Silver,Management,N
+Bellingham,M,F,0,80000,56,Small Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Tacoma,M,F,1,140000,25,Deluxe Supermarket,0,High School Degree,Bronze,Professional,Y
+Bellingham,S,F,0,40000,61,Small Grocery,0,High School Degree,Silver,Skilled Manual,Y
+Sedro Woolley,M,F,0,100000,65,No Store,0,High School Degree,Bronze,Management,Y
+Kirkland,S,M,0,40000,24,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Bremerton,S,F,0,40000,53,Supermarket,1,High School Degree,Normal,Skilled Manual,N
+Lynnwood,M,F,1,20000,66,No Store,0,Partial High School,Golden,Manual,Y
+Lynnwood,S,M,0,100000,56,No Store,0,Partial College,Bronze,Professional,N
+Walla Walla,M,F,1,40000,22,Small Grocery,0,High School Degree,Bronze,Skilled Manual,N
+Bellingham,M,M,1,40000,87,Small Grocery,0,Partial College,Bronze,Management,Y
+Edmonds,M,M,3,20000,33,No Store,0,Partial High School,Normal,Skilled Manual,Y
+Issaquah,M,M,0,40000,32,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Ballard,S,F,0,140000,59,No Store,0,Partial High School,Silver,Professional,N
+Sedro Woolley,S,F,0,60000,62,No Store,0,High School Degree,Silver,Skilled Manual,N
+Yakima,M,F,2,60000,44,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,Y
+Yakima,S,F,0,60000,86,Mid-Size Grocery,0,Bachelors Degree,Bronze,Professional,N
+Ballard,M,M,0,100000,83,No Store,0,Partial High School,Silver,Professional,Y
+Lynnwood,S,F,0,60000,21,No Store,0,Bachelors Degree,Bronze,Professional,N
+Bellingham,M,M,5,80000,57,Small Grocery,0,Bachelors Degree,Golden,Professional,Y
+Renton,S,M,0,120000,77,No Store,0,High School Degree,Bronze,Management,Y
+Renton,M,M,3,80000,52,No Store,0,Bachelors Degree,Golden,Management,Y
+Puyallup,M,M,0,40000,40,No Store,0,Bachelors Degree,Bronze,Professional,N
+Walla Walla,M,M,1,40000,44,Small Grocery,0,Partial College,Normal,Professional,Y
+Bellingham,M,M,2,40000,56,Small Grocery,0,Partial College,Bronze,Skilled Manual,Y
+Lynnwood,S,F,0,80000,57,No Store,0,Bachelors Degree,Bronze,Management,Y
+Anacortes,S,M,0,40000,30,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Ballard,M,F,1,60000,71,No Store,0,Bachelors Degree,Bronze,Management,Y
+Port Orchard,S,M,0,40000,43,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Puyallup,M,M,1,40000,68,No Store,0,High School Degree,Bronze,Skilled Manual,N
+Burien,S,M,0,40000,62,No Store,0,Partial College,Bronze,Skilled Manual,Y
+Tacoma,M,F,0,60000,67,Deluxe Supermarket,0,Bachelors Degree,Bronze,Professional,Y
+Tacoma,M,M,0,20000,53,Deluxe Supermarket,0,High School Degree,Normal,Manual,Y
+Marysville,S,M,0,20000,52,No Store,0,Partial High School,Normal,Manual,Y
+Olympia,M,M,2,60000,22,No Store,0,Bachelors Degree,Bronze,Professional,Y
+Marysville,S,F,0,20000,23,No Store,0,Partial High School,Normal,Manual,N
+Spokane,M,F,0,40000,49,Supermarket,1,Partial High School,Bronze,Skilled Manual,N
+Sedro Woolley,M,F,4,60000,34,No Store,0,Bachelors Degree,Golden,Professional,Y
+Kirkland,M,M,4,40000,51,No Store,0,High School Degree,Golden,Skilled Manual,Y
+Lynnwood,M,M,1,40000,23,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Anacortes,S,F,0,20000,39,No Store,0,Partial High School,Normal,Manual,N
+Bellingham,S,F,0,60000,48,Small Grocery,0,Partial College,Bronze,Professional,N
+Edmonds,M,F,1,140000,47,No Store,0,Partial High School,Bronze,Professional,Y
+Yakima,S,F,0,40000,36,Mid-Size Grocery,0,High School Degree,Bronze,Manual,Y
+Yakima,S,F,0,20000,37,Mid-Size Grocery,0,Partial High School,Normal,Skilled Manual,N
+Lynnwood,M,F,0,20000,67,No Store,0,Partial High School,Normal,Manual,Y
+Spokane,M,F,0,40000,28,Supermarket,0,High School Degree,Bronze,Skilled Manual,Y
+Bremerton,S,F,0,140000,24,Supermarket,1,High School Degree,Bronze,Professional,Y
+Puyallup,M,M,1,40000,56,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Kirkland,M,F,0,80000,32,No Store,0,Graduate Degree,Bronze,Management,Y
+Puyallup,M,M,2,20000,39,No Store,1,Partial High School,Normal,Manual,Y
+Renton,M,F,0,80000,20,No Store,0,Graduate Degree,Bronze,Professional,Y
+Renton,M,M,3,40000,27,No Store,0,High School Degree,Bronze,Manual,Y
+Olympia,M,F,5,40000,31,No Store,0,High School Degree,Bronze,Skilled Manual,Y
+Seattle,S,F,0,140000,78,Supermarket,0,High School Degree,Bronze,Professional,Y
+Anacortes,M,F,1,80000,26,No Store,0,Bachelors Degree,Bronze,Management,Y
+Puyallup,S,F,0,80000,85,No Store,0,Bachelors Degree,Bronze,Professional,N
+Puyallup,M,F,2,150000,30,No Store,0,High School Degree,Golden,Professional,Y
